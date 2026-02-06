@@ -1,45 +1,5 @@
 [
   {
-    "date": "2000-01-01",
-    "distance": 42652.6,
-    "elevation_gain": 217.1,
-    "id": 8849463058,
-    "moving_time": 15656.0,
-    "start_date_local": "2000-01-01T02:50:18Z",
-    "type": "Ride",
-    "year": 2000
-  },
-  {
-    "date": "2012-06-10",
-    "distance": 82053.4,
-    "elevation_gain": 144.0,
-    "id": 10503916,
-    "moving_time": 16776.0,
-    "start_date_local": "2012-06-10T09:26:46Z",
-    "type": "Ride",
-    "year": 2012
-  },
-  {
-    "date": "2012-07-21",
-    "distance": 55330.9,
-    "elevation_gain": 107.1,
-    "id": 14075670,
-    "moving_time": 18116.0,
-    "start_date_local": "2012-07-21T18:08:21Z",
-    "type": "Ride",
-    "year": 2012
-  },
-  {
-    "date": "2012-07-28",
-    "distance": 89586.8,
-    "elevation_gain": 273.9,
-    "id": 15212033,
-    "moving_time": 21301.0,
-    "start_date_local": "2012-07-28T15:46:28Z",
-    "type": "Ride",
-    "year": 2012
-  },
-  {
     "date": "2015-05-27",
     "distance": 5524.2,
     "elevation_gain": 40.3,
@@ -90,16 +50,6 @@
     "year": 2019
   },
   {
-    "date": "2019-07-06",
-    "distance": 25842.6,
-    "elevation_gain": 188.6,
-    "id": 2509456950,
-    "moving_time": 10462.0,
-    "start_date_local": "2019-07-06T16:08:37Z",
-    "type": "Ride",
-    "year": 2019
-  },
-  {
     "date": "2019-07-07",
     "distance": 2593.1,
     "elevation_gain": 25.7,
@@ -140,16 +90,6 @@
     "year": 2019
   },
   {
-    "date": "2019-07-23",
-    "distance": 7356.0,
-    "elevation_gain": 18.2,
-    "id": 2556977990,
-    "moving_time": 4273.0,
-    "start_date_local": "2019-07-23T19:51:11Z",
-    "type": "OtherSports",
-    "year": 2019
-  },
-  {
     "date": "2019-07-26",
     "distance": 2473.8,
     "elevation_gain": 68.5,
@@ -157,16 +97,6 @@
     "moving_time": 989.0,
     "start_date_local": "2019-07-26T18:44:48Z",
     "type": "Run",
-    "year": 2019
-  },
-  {
-    "date": "2019-07-27",
-    "distance": 11042.0,
-    "elevation_gain": 182.4,
-    "id": 2567297335,
-    "moving_time": 8182.0,
-    "start_date_local": "2019-07-27T14:06:59Z",
-    "type": "OtherSports",
     "year": 2019
   },
   {
@@ -207,16 +137,6 @@
     "moving_time": 1593.0,
     "start_date_local": "2019-08-04T14:50:24Z",
     "type": "Run",
-    "year": 2019
-  },
-  {
-    "date": "2019-08-04",
-    "distance": 4040.6,
-    "elevation_gain": 36.9,
-    "id": 2591002784,
-    "moving_time": 3020.0,
-    "start_date_local": "2019-08-04T19:48:16Z",
-    "type": "OtherSports",
     "year": 2019
   },
   {
@@ -280,16 +200,6 @@
     "year": 2019
   },
   {
-    "date": "2019-08-18",
-    "distance": 7282.8,
-    "elevation_gain": 98.8,
-    "id": 2629362910,
-    "moving_time": 6414.0,
-    "start_date_local": "2019-08-18T12:25:53Z",
-    "type": "OtherSports",
-    "year": 2019
-  },
-  {
     "date": "2019-08-25",
     "distance": 4227.6,
     "elevation_gain": 64.4,
@@ -300,16 +210,6 @@
     "year": 2019
   },
   {
-    "date": "2019-08-30",
-    "distance": 8238.9,
-    "elevation_gain": 216.7,
-    "id": 2664872884,
-    "moving_time": 3474.0,
-    "start_date_local": "2019-08-30T17:23:55Z",
-    "type": "Ride",
-    "year": 2019
-  },
-  {
     "date": "2019-09-02",
     "distance": 4372.0,
     "elevation_gain": 37.4,
@@ -317,16 +217,6 @@
     "moving_time": 1573.0,
     "start_date_local": "2019-09-02T16:19:43Z",
     "type": "Run",
-    "year": 2019
-  },
-  {
-    "date": "2019-09-02",
-    "distance": 24279.1,
-    "elevation_gain": 185.9,
-    "id": 2673897510,
-    "moving_time": 9171.0,
-    "start_date_local": "2019-09-02T17:52:40Z",
-    "type": "Ride",
     "year": 2019
   },
   {
@@ -407,16 +297,6 @@
     "moving_time": 1012.0,
     "start_date_local": "2019-10-09T19:08:52Z",
     "type": "Run",
-    "year": 2019
-  },
-  {
-    "date": "2019-10-12",
-    "distance": 11665.0,
-    "elevation_gain": 70.2,
-    "id": 2783266977,
-    "moving_time": 8351.0,
-    "start_date_local": "2019-10-12T16:27:39Z",
-    "type": "OtherSports",
     "year": 2019
   },
   {
@@ -510,16 +390,6 @@
     "year": 2019
   },
   {
-    "date": "2019-11-24",
-    "distance": 9791.8,
-    "elevation_gain": 166.0,
-    "id": 2888628841,
-    "moving_time": 6627.0,
-    "start_date_local": "2019-11-24T13:09:13Z",
-    "type": "OtherSports",
-    "year": 2019
-  },
-  {
     "date": "2019-11-27",
     "distance": 6022.1,
     "elevation_gain": 42.5,
@@ -528,76 +398,6 @@
     "start_date_local": "2019-11-27T18:25:25Z",
     "type": "Run",
     "year": 2019
-  },
-  {
-    "date": "2019-11-30",
-    "distance": 15641.7,
-    "elevation_gain": 233.8,
-    "id": 2902207754,
-    "moving_time": 11006.0,
-    "start_date_local": "2019-11-30T14:50:37Z",
-    "type": "OtherSports",
-    "year": 2019
-  },
-  {
-    "date": "2019-12-14",
-    "distance": 8025.2,
-    "elevation_gain": 58.8,
-    "id": 2947369132,
-    "moving_time": 5466.0,
-    "start_date_local": "2019-12-14T15:56:12Z",
-    "type": "OtherSports",
-    "year": 2019
-  },
-  {
-    "date": "2019-12-21",
-    "distance": 12619.5,
-    "elevation_gain": 304.9,
-    "id": 2947369254,
-    "moving_time": 8905.0,
-    "start_date_local": "2019-12-21T14:55:24Z",
-    "type": "OtherSports",
-    "year": 2019
-  },
-  {
-    "date": "2020-01-09",
-    "distance": 6824.6,
-    "elevation_gain": 46.7,
-    "id": 3020471369,
-    "moving_time": 4181.0,
-    "start_date_local": "2020-01-09T18:51:49Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
-    "date": "2020-01-17",
-    "distance": 24251.0,
-    "elevation_gain": 279.7,
-    "id": 3020471501,
-    "moving_time": 16889.0,
-    "start_date_local": "2020-01-17T22:30:24Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
-    "date": "2020-03-28",
-    "distance": 11265.1,
-    "elevation_gain": 173.7,
-    "id": 3228869677,
-    "moving_time": 7954.0,
-    "start_date_local": "2020-03-28T14:34:37Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
-    "date": "2020-04-09",
-    "distance": 7681.3,
-    "elevation_gain": 51.0,
-    "id": 3276704276,
-    "moving_time": 4983.0,
-    "start_date_local": "2020-04-09T19:54:24Z",
-    "type": "OtherSports",
-    "year": 2020
   },
   {
     "date": "2020-04-18",
@@ -627,16 +427,6 @@
     "moving_time": 2174.0,
     "start_date_local": "2020-04-28T19:53:31Z",
     "type": "Run",
-    "year": 2020
-  },
-  {
-    "date": "2020-05-02",
-    "distance": 5692.5,
-    "elevation_gain": 101.8,
-    "id": 3391481613,
-    "moving_time": 4077.0,
-    "start_date_local": "2020-05-02T14:44:45Z",
-    "type": "OtherSports",
     "year": 2020
   },
   {
@@ -720,16 +510,6 @@
     "year": 2020
   },
   {
-    "date": "2020-06-13",
-    "distance": 10811.5,
-    "elevation_gain": 158.0,
-    "id": 3609887788,
-    "moving_time": 4608.0,
-    "start_date_local": "2020-06-13T21:23:54Z",
-    "type": "Ride",
-    "year": 2020
-  },
-  {
     "date": "2020-06-14",
     "distance": 6275.0,
     "elevation_gain": 121.5,
@@ -770,16 +550,6 @@
     "year": 2020
   },
   {
-    "date": "2020-06-23",
-    "distance": 24311.9,
-    "elevation_gain": 489.1,
-    "id": 3661182665,
-    "moving_time": 14256.0,
-    "start_date_local": "2020-06-23T20:32:06Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
     "date": "2020-06-29",
     "distance": 2739.1,
     "elevation_gain": 19.1,
@@ -817,16 +587,6 @@
     "moving_time": 3718.0,
     "start_date_local": "2020-07-06T13:26:38Z",
     "type": "Run",
-    "year": 2020
-  },
-  {
-    "date": "2020-07-06",
-    "distance": 10717.2,
-    "elevation_gain": 162.1,
-    "id": 3722326407,
-    "moving_time": 4192.0,
-    "start_date_local": "2020-07-06T17:24:48Z",
-    "type": "Ride",
     "year": 2020
   },
   {
@@ -877,46 +637,6 @@
     "moving_time": 1491.0,
     "start_date_local": "2020-07-18T16:03:58Z",
     "type": "Run",
-    "year": 2020
-  },
-  {
-    "date": "2020-07-18",
-    "distance": 10777.5,
-    "elevation_gain": 157.6,
-    "id": 3781963969,
-    "moving_time": 4501.0,
-    "start_date_local": "2020-07-18T20:29:31Z",
-    "type": "Ride",
-    "year": 2020
-  },
-  {
-    "date": "2020-07-19",
-    "distance": 8644.2,
-    "elevation_gain": 81.1,
-    "id": 3785231930,
-    "moving_time": 1672.0,
-    "start_date_local": "2020-07-19T14:58:05Z",
-    "type": "Ride",
-    "year": 2020
-  },
-  {
-    "date": "2020-07-19",
-    "distance": 2024.1,
-    "elevation_gain": 0.0,
-    "id": 3785560207,
-    "moving_time": 753.0,
-    "start_date_local": "2020-07-19T15:30:48Z",
-    "type": "Swim",
-    "year": 2020
-  },
-  {
-    "date": "2020-07-19",
-    "distance": 8761.4,
-    "elevation_gain": 124.2,
-    "id": 3785825152,
-    "moving_time": 1802.0,
-    "start_date_local": "2020-07-19T16:30:41Z",
-    "type": "Ride",
     "year": 2020
   },
   {
@@ -977,16 +697,6 @@
     "moving_time": 1701.0,
     "start_date_local": "2020-08-01T17:42:25Z",
     "type": "Run",
-    "year": 2020
-  },
-  {
-    "date": "2020-08-02",
-    "distance": 23874.7,
-    "elevation_gain": 243.2,
-    "id": 3853495628,
-    "moving_time": 3570.0,
-    "start_date_local": "2020-08-02T15:35:38Z",
-    "type": "Ride",
     "year": 2020
   },
   {
@@ -1057,16 +767,6 @@
     "moving_time": 1637.0,
     "start_date_local": "2020-08-18T15:23:23Z",
     "type": "Run",
-    "year": 2020
-  },
-  {
-    "date": "2020-08-18",
-    "distance": 4142.3,
-    "elevation_gain": 56.5,
-    "id": 3932040580,
-    "moving_time": 1415.0,
-    "start_date_local": "2020-08-18T19:58:59Z",
-    "type": "Ride",
     "year": 2020
   },
   {
@@ -1240,26 +940,6 @@
     "year": 2020
   },
   {
-    "date": "2020-10-10",
-    "distance": 8225.0,
-    "elevation_gain": 24.0,
-    "id": 4175045491,
-    "moving_time": 5572.0,
-    "start_date_local": "2020-10-10T11:19:41Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
-    "date": "2020-10-11",
-    "distance": 19123.4,
-    "elevation_gain": 51.0,
-    "id": 4181769739,
-    "moving_time": 15325.0,
-    "start_date_local": "2020-10-11T13:03:01Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
     "date": "2020-10-13",
     "distance": 6404.8,
     "elevation_gain": 17.0,
@@ -1370,96 +1050,6 @@
     "year": 2020
   },
   {
-    "date": "2020-12-24",
-    "distance": 12002.0,
-    "elevation_gain": 26.0,
-    "id": 4512710478,
-    "moving_time": 8020.0,
-    "start_date_local": "2020-12-24T15:01:44Z",
-    "type": "OtherSports",
-    "year": 2020
-  },
-  {
-    "date": "2021-01-16",
-    "distance": 8995.1,
-    "elevation_gain": 134.0,
-    "id": 4666826921,
-    "moving_time": 6599.0,
-    "start_date_local": "2021-01-16T13:01:41Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-02-06",
-    "distance": 8537.0,
-    "elevation_gain": 137.0,
-    "id": 4745713864,
-    "moving_time": 7084.0,
-    "start_date_local": "2021-02-06T14:24:28Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-02-20",
-    "distance": 20789.0,
-    "elevation_gain": 39.0,
-    "id": 4819686981,
-    "moving_time": 13784.0,
-    "start_date_local": "2021-02-20T15:28:35Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-03-27",
-    "distance": 9297.3,
-    "elevation_gain": 127.0,
-    "id": 5028367808,
-    "moving_time": 3288.0,
-    "start_date_local": "2021-03-27T11:31:24Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-03-28",
-    "distance": 10002.4,
-    "elevation_gain": 159.0,
-    "id": 5028368018,
-    "moving_time": 6319.0,
-    "start_date_local": "2021-03-28T14:26:41Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-02",
-    "distance": 12976.4,
-    "elevation_gain": 148.0,
-    "id": 5056712124,
-    "moving_time": 5928.0,
-    "start_date_local": "2021-04-02T16:30:45Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-04",
-    "distance": 17968.2,
-    "elevation_gain": 235.0,
-    "id": 5068429197,
-    "moving_time": 7580.0,
-    "start_date_local": "2021-04-04T13:10:24Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-05",
-    "distance": 5013.1,
-    "elevation_gain": 74.0,
-    "id": 5075065431,
-    "moving_time": 2391.0,
-    "start_date_local": "2021-04-05T14:09:15Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
     "date": "2021-04-06",
     "distance": 3745.0,
     "elevation_gain": 8.0,
@@ -1467,26 +1057,6 @@
     "moving_time": 1240.0,
     "start_date_local": "2021-04-06T18:56:55Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-10",
-    "distance": 16787.0,
-    "elevation_gain": 192.0,
-    "id": 5138310995,
-    "moving_time": 7021.0,
-    "start_date_local": "2021-04-10T14:22:05Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-11",
-    "distance": 6532.6,
-    "elevation_gain": 82.0,
-    "id": 5138310958,
-    "moving_time": 3089.0,
-    "start_date_local": "2021-04-11T17:06:55Z",
-    "type": "Ride",
     "year": 2021
   },
   {
@@ -1510,76 +1080,6 @@
     "year": 2021
   },
   {
-    "date": "2021-04-24",
-    "distance": 14413.1,
-    "elevation_gain": 164.0,
-    "id": 5202801941,
-    "moving_time": 5578.0,
-    "start_date_local": "2021-04-24T13:52:46Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-25",
-    "distance": 6799.9,
-    "elevation_gain": 62.0,
-    "id": 5202801886,
-    "moving_time": 3343.0,
-    "start_date_local": "2021-04-25T17:03:26Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-26",
-    "distance": 9656.9,
-    "elevation_gain": 119.0,
-    "id": 5202802109,
-    "moving_time": 3537.0,
-    "start_date_local": "2021-04-26T17:20:46Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-27",
-    "distance": 9925.2,
-    "elevation_gain": 111.0,
-    "id": 5202802297,
-    "moving_time": 8603.0,
-    "start_date_local": "2021-04-27T17:31:25Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-04-28",
-    "distance": 7079.5,
-    "elevation_gain": 72.0,
-    "id": 5269052590,
-    "moving_time": 3453.0,
-    "start_date_local": "2021-04-28T17:39:44Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-05-08",
-    "distance": 6995.1,
-    "elevation_gain": 27.0,
-    "id": 5269052591,
-    "moving_time": 4462.0,
-    "start_date_local": "2021-05-08T18:40:39Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-05-09",
-    "distance": 7953.0,
-    "elevation_gain": 97.0,
-    "id": 5269052666,
-    "moving_time": 3426.0,
-    "start_date_local": "2021-05-09T17:44:21Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
     "date": "2021-05-10",
     "distance": 3023.3,
     "elevation_gain": 9.0,
@@ -1587,16 +1087,6 @@
     "moving_time": 978.0,
     "start_date_local": "2021-05-10T19:05:24Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-05-12",
-    "distance": 13394.5,
-    "elevation_gain": 14.0,
-    "id": 5285352323,
-    "moving_time": 8506.0,
-    "start_date_local": "2021-05-12T17:47:57Z",
-    "type": "OtherSports",
     "year": 2021
   },
   {
@@ -1617,16 +1107,6 @@
     "moving_time": 787.0,
     "start_date_local": "2021-05-13T18:24:47Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-05-18",
-    "distance": 5262.4,
-    "elevation_gain": 15.0,
-    "id": 5325156704,
-    "moving_time": 3322.0,
-    "start_date_local": "2021-05-18T06:43:41Z",
-    "type": "OtherSports",
     "year": 2021
   },
   {
@@ -1690,36 +1170,6 @@
     "year": 2021
   },
   {
-    "date": "2021-06-08",
-    "distance": 8121.3,
-    "elevation_gain": 4.0,
-    "id": 5552433264,
-    "moving_time": 4602.0,
-    "start_date_local": "2021-06-08T18:18:45Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-06-14",
-    "distance": 7048.8,
-    "elevation_gain": 4.0,
-    "id": 5552433321,
-    "moving_time": 4113.0,
-    "start_date_local": "2021-06-14T18:30:55Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-07-05",
-    "distance": 5716.4,
-    "elevation_gain": 71.0,
-    "id": 5594561008,
-    "moving_time": 2816.0,
-    "start_date_local": "2021-07-05T10:41:38Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
     "date": "2021-07-19",
     "distance": 3023.6,
     "elevation_gain": 2.0,
@@ -1750,16 +1200,6 @@
     "year": 2021
   },
   {
-    "date": "2021-07-30",
-    "distance": 4834.9,
-    "elevation_gain": 47.0,
-    "id": 5737889745,
-    "moving_time": 1671.0,
-    "start_date_local": "2021-07-30T20:23:41Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
     "date": "2021-08-04",
     "distance": 6215.9,
     "elevation_gain": 2.0,
@@ -1770,76 +1210,6 @@
     "year": 2021
   },
   {
-    "date": "2021-08-07",
-    "distance": 11010.2,
-    "elevation_gain": 76.0,
-    "id": 5755195766,
-    "moving_time": 4167.0,
-    "start_date_local": "2021-08-07T14:13:39Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-09",
-    "distance": 10719.1,
-    "elevation_gain": 116.0,
-    "id": 5769186241,
-    "moving_time": 4414.0,
-    "start_date_local": "2021-08-09T19:09:31Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-10",
-    "distance": 7555.3,
-    "elevation_gain": 80.0,
-    "id": 5770734190,
-    "moving_time": 3177.0,
-    "start_date_local": "2021-08-10T19:49:24Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-13",
-    "distance": 4499.3,
-    "elevation_gain": 52.0,
-    "id": 5877819759,
-    "moving_time": 1752.0,
-    "start_date_local": "2021-08-13T19:32:30Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-16",
-    "distance": 4813.3,
-    "elevation_gain": 58.0,
-    "id": 5877819767,
-    "moving_time": 1972.0,
-    "start_date_local": "2021-08-16T19:18:58Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-21",
-    "distance": 24234.3,
-    "elevation_gain": 165.0,
-    "id": 5877820297,
-    "moving_time": 10025.0,
-    "start_date_local": "2021-08-21T13:47:52Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-08-23",
-    "distance": 3203.0,
-    "elevation_gain": 37.0,
-    "id": 5877819839,
-    "moving_time": 1522.0,
-    "start_date_local": "2021-08-23T19:53:20Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
     "date": "2021-08-30",
     "distance": 5087.4,
     "elevation_gain": 2.0,
@@ -1847,46 +1217,6 @@
     "moving_time": 1779.0,
     "start_date_local": "2021-08-30T18:23:23Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-09-02",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 5915428342,
-    "moving_time": 3296.0,
-    "start_date_local": "2021-09-02T18:34:41Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-09-04",
-    "distance": 12156.5,
-    "elevation_gain": 146.0,
-    "id": 5915428593,
-    "moving_time": 4263.0,
-    "start_date_local": "2021-09-04T13:17:48Z",
-    "type": "Ride",
-    "year": 2021
-  },
-  {
-    "date": "2021-09-18",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 6051961407,
-    "moving_time": 490.0,
-    "start_date_local": "2021-09-18T13:31:22Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-10-02",
-    "distance": 25090.0,
-    "elevation_gain": 196.0,
-    "id": 6053479358,
-    "moving_time": 8373.0,
-    "start_date_local": "2021-10-02T15:44:58Z",
-    "type": "Ride",
     "year": 2021
   },
   {
@@ -1947,16 +1277,6 @@
     "moving_time": 1328.0,
     "start_date_local": "2021-10-19T18:51:13Z",
     "type": "Run",
-    "year": 2021
-  },
-  {
-    "date": "2021-10-23",
-    "distance": 7881.9,
-    "elevation_gain": 81.0,
-    "id": 6153995130,
-    "moving_time": 5778.0,
-    "start_date_local": "2021-10-23T12:51:14Z",
-    "type": "OtherSports",
     "year": 2021
   },
   {
@@ -2050,96 +1370,6 @@
     "year": 2021
   },
   {
-    "date": "2021-12-05",
-    "distance": 13515.0,
-    "elevation_gain": 204.0,
-    "id": 6347316160,
-    "moving_time": 11369.0,
-    "start_date_local": "2021-12-05T12:13:30Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-12-12",
-    "distance": 13607.2,
-    "elevation_gain": 208.0,
-    "id": 6374825965,
-    "moving_time": 10948.0,
-    "start_date_local": "2021-12-12T12:11:52Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-12-18",
-    "distance": 15010.0,
-    "elevation_gain": 261.0,
-    "id": 6398948030,
-    "moving_time": 11357.0,
-    "start_date_local": "2021-12-18T12:36:13Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-12-24",
-    "distance": 10543.0,
-    "elevation_gain": 145.0,
-    "id": 6423625096,
-    "moving_time": 8174.0,
-    "start_date_local": "2021-12-24T13:19:49Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-12-26",
-    "distance": 11248.5,
-    "elevation_gain": 11.0,
-    "id": 6430217793,
-    "moving_time": 8029.0,
-    "start_date_local": "2021-12-26T14:34:30Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2021-12-31",
-    "distance": 10056.0,
-    "elevation_gain": 27.0,
-    "id": 6452615736,
-    "moving_time": 6746.0,
-    "start_date_local": "2021-12-31T17:04:49Z",
-    "type": "OtherSports",
-    "year": 2021
-  },
-  {
-    "date": "2022-01-02",
-    "distance": 8605.3,
-    "elevation_gain": 26.0,
-    "id": 6462287226,
-    "moving_time": 5772.0,
-    "start_date_local": "2022-01-02T16:22:53Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
-    "date": "2022-01-03",
-    "distance": 8020.0,
-    "elevation_gain": 25.0,
-    "id": 6466997092,
-    "moving_time": 5192.0,
-    "start_date_local": "2022-01-03T16:34:59Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
-    "date": "2022-01-04",
-    "distance": 11794.2,
-    "elevation_gain": 29.0,
-    "id": 6471981720,
-    "moving_time": 7702.0,
-    "start_date_local": "2022-01-04T15:48:18Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
     "date": "2022-01-05",
     "distance": 3920.4,
     "elevation_gain": 9.0,
@@ -2147,16 +1377,6 @@
     "moving_time": 1368.0,
     "start_date_local": "2022-01-05T18:44:41Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-01-07",
-    "distance": 11320.9,
-    "elevation_gain": 31.0,
-    "id": 6486484142,
-    "moving_time": 8026.0,
-    "start_date_local": "2022-01-07T11:49:24Z",
-    "type": "OtherSports",
     "year": 2022
   },
   {
@@ -2170,16 +1390,6 @@
     "year": 2022
   },
   {
-    "date": "2022-01-08",
-    "distance": 7179.0,
-    "elevation_gain": 32.0,
-    "id": 6492271962,
-    "moving_time": 4604.0,
-    "start_date_local": "2022-01-08T17:16:09Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
     "date": "2022-01-09",
     "distance": 4628.0,
     "elevation_gain": 4.0,
@@ -2187,16 +1397,6 @@
     "moving_time": 1494.0,
     "start_date_local": "2022-01-09T19:17:12Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-01-10",
-    "distance": 7197.0,
-    "elevation_gain": 18.0,
-    "id": 6502264739,
-    "moving_time": 4650.0,
-    "start_date_local": "2022-01-10T17:30:20Z",
-    "type": "OtherSports",
     "year": 2022
   },
   {
@@ -2240,16 +1440,6 @@
     "year": 2022
   },
   {
-    "date": "2022-01-29",
-    "distance": 12109.2,
-    "elevation_gain": 75.0,
-    "id": 6600554165,
-    "moving_time": 7232.0,
-    "start_date_local": "2022-01-29T14:50:46Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
     "date": "2022-02-01",
     "distance": 3526.4,
     "elevation_gain": 10.0,
@@ -2260,16 +1450,6 @@
     "year": 2022
   },
   {
-    "date": "2022-02-16",
-    "distance": 8902.1,
-    "elevation_gain": 129.0,
-    "id": 6716467942,
-    "moving_time": 6460.0,
-    "start_date_local": "2022-02-16T12:56:17Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
     "date": "2022-02-21",
     "distance": 3059.4,
     "elevation_gain": 29.0,
@@ -2277,96 +1457,6 @@
     "moving_time": 1010.0,
     "start_date_local": "2022-02-21T18:19:54Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-03-05",
-    "distance": 12846.5,
-    "elevation_gain": 188.0,
-    "id": 6892839884,
-    "moving_time": 9495.0,
-    "start_date_local": "2022-03-05T12:30:37Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-02",
-    "distance": 27293.5,
-    "elevation_gain": 169.0,
-    "id": 6921565338,
-    "moving_time": 3150.0,
-    "start_date_local": "2022-04-02T16:24:41Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-03",
-    "distance": 20232.0,
-    "elevation_gain": 254.0,
-    "id": 6926433692,
-    "moving_time": 6696.0,
-    "start_date_local": "2022-04-03T11:47:18Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-09",
-    "distance": 16491.7,
-    "elevation_gain": 191.0,
-    "id": 6961762237,
-    "moving_time": 5425.0,
-    "start_date_local": "2022-04-09T14:20:09Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-10",
-    "distance": 30912.9,
-    "elevation_gain": 325.0,
-    "id": 6961762360,
-    "moving_time": 11213.0,
-    "start_date_local": "2022-04-10T14:03:45Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-12",
-    "distance": 13960.2,
-    "elevation_gain": 156.0,
-    "id": 7002278198,
-    "moving_time": 4281.0,
-    "start_date_local": "2022-04-12T18:13:02Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-18",
-    "distance": 26313.3,
-    "elevation_gain": 202.0,
-    "id": 7002284880,
-    "moving_time": 3897.0,
-    "start_date_local": "2022-04-18T16:27:00Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-04-19",
-    "distance": 7881.8,
-    "elevation_gain": 99.0,
-    "id": 7103179550,
-    "moving_time": 4007.0,
-    "start_date_local": "2022-04-19T18:08:10Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-05-07",
-    "distance": 23604.2,
-    "elevation_gain": 300.0,
-    "id": 7103179592,
-    "moving_time": 7809.0,
-    "start_date_local": "2022-05-07T13:36:10Z",
-    "type": "Ride",
     "year": 2022
   },
   {
@@ -2400,16 +1490,6 @@
     "year": 2022
   },
   {
-    "date": "2022-06-05",
-    "distance": 34507.3,
-    "elevation_gain": 313.0,
-    "id": 7267945361,
-    "moving_time": 6370.0,
-    "start_date_local": "2022-06-05T15:34:46Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
     "date": "2022-06-06",
     "distance": 3031.4,
     "elevation_gain": 27.0,
@@ -2437,16 +1517,6 @@
     "moving_time": 990.0,
     "start_date_local": "2022-06-17T17:41:30Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-07-06",
-    "distance": 26650.6,
-    "elevation_gain": 152.0,
-    "id": 7425421953,
-    "moving_time": 2743.0,
-    "start_date_local": "2022-07-06T18:45:34Z",
-    "type": "Ride",
     "year": 2022
   },
   {
@@ -2490,16 +1560,6 @@
     "year": 2022
   },
   {
-    "date": "2022-07-25",
-    "distance": 32972.1,
-    "elevation_gain": 240.0,
-    "id": 7525742443,
-    "moving_time": 5606.0,
-    "start_date_local": "2022-07-25T13:53:17Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
     "date": "2022-07-27",
     "distance": 3257.4,
     "elevation_gain": 28.0,
@@ -2507,56 +1567,6 @@
     "moving_time": 1052.0,
     "start_date_local": "2022-07-27T15:42:42Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-07-27",
-    "distance": 39486.0,
-    "elevation_gain": 331.0,
-    "id": 7537916724,
-    "moving_time": 5621.0,
-    "start_date_local": "2022-07-27T17:04:03Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-07-28",
-    "distance": 14756.8,
-    "elevation_gain": 144.0,
-    "id": 7543632739,
-    "moving_time": 5311.0,
-    "start_date_local": "2022-07-28T17:28:38Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-07-29",
-    "distance": 24099.3,
-    "elevation_gain": 144.0,
-    "id": 7549590261,
-    "moving_time": 2704.0,
-    "start_date_local": "2022-07-29T20:41:43Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-07-30",
-    "distance": 41431.1,
-    "elevation_gain": 303.0,
-    "id": 7553413838,
-    "moving_time": 6423.0,
-    "start_date_local": "2022-07-30T14:12:57Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-07-31",
-    "distance": 14780.4,
-    "elevation_gain": 163.0,
-    "id": 7559863483,
-    "moving_time": 5257.0,
-    "start_date_local": "2022-07-31T16:09:44Z",
-    "type": "Ride",
     "year": 2022
   },
   {
@@ -2571,32 +1581,12 @@
   },
   {
     "date": "2022-08-06",
-    "distance": 23164.8,
-    "elevation_gain": 243.0,
-    "id": 7591710648,
-    "moving_time": 4305.0,
-    "start_date_local": "2022-08-06T13:51:23Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-08-06",
     "distance": 6548.1,
     "elevation_gain": 69.0,
     "id": 7592586618,
     "moving_time": 2103.0,
     "start_date_local": "2022-08-06T17:06:25Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-08-07",
-    "distance": 100208.0,
-    "elevation_gain": 749.0,
-    "id": 7598528038,
-    "moving_time": 18822.0,
-    "start_date_local": "2022-08-07T10:54:48Z",
-    "type": "Ride",
     "year": 2022
   },
   {
@@ -2630,16 +1620,6 @@
     "year": 2022
   },
   {
-    "date": "2022-08-21",
-    "distance": 32909.0,
-    "elevation_gain": 251.0,
-    "id": 7676572135,
-    "moving_time": 4912.0,
-    "start_date_local": "2022-08-21T17:36:27Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
     "date": "2022-08-23",
     "distance": 10072.9,
     "elevation_gain": 85.0,
@@ -2647,16 +1627,6 @@
     "moving_time": 3525.0,
     "start_date_local": "2022-08-23T13:11:06Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-08-23",
-    "distance": 38022.0,
-    "elevation_gain": 283.0,
-    "id": 7686772051,
-    "moving_time": 5293.0,
-    "start_date_local": "2022-08-23T16:29:47Z",
-    "type": "Ride",
     "year": 2022
   },
   {
@@ -2810,16 +1780,6 @@
     "year": 2022
   },
   {
-    "date": "2022-11-13",
-    "distance": 81128.5,
-    "elevation_gain": 72.0,
-    "id": 8112494332,
-    "moving_time": 12792.0,
-    "start_date_local": "2022-11-13T12:29:35Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
     "date": "2022-11-15",
     "distance": 2227.1,
     "elevation_gain": 102.0,
@@ -2841,32 +1801,12 @@
   },
   {
     "date": "2022-11-21",
-    "distance": 7602.5,
-    "elevation_gain": 11.0,
-    "id": 8148284910,
-    "moving_time": 5829.0,
-    "start_date_local": "2022-11-21T12:14:33Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
-    "date": "2022-11-21",
     "distance": 10119.1,
     "elevation_gain": 4.0,
     "id": 8148582663,
     "moving_time": 3638.0,
     "start_date_local": "2022-11-21T14:08:22Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-11-23",
-    "distance": 4862.2,
-    "elevation_gain": 16.0,
-    "id": 8156998926,
-    "moving_time": 4159.0,
-    "start_date_local": "2022-11-23T12:16:10Z",
-    "type": "OtherSports",
     "year": 2022
   },
   {
@@ -2880,36 +1820,6 @@
     "year": 2022
   },
   {
-    "date": "2022-11-25",
-    "distance": 32446.2,
-    "elevation_gain": 39.0,
-    "id": 8166468607,
-    "moving_time": 11199.0,
-    "start_date_local": "2022-11-25T12:35:31Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-11-26",
-    "distance": 9144.3,
-    "elevation_gain": 122.0,
-    "id": 8169966808,
-    "moving_time": 5438.0,
-    "start_date_local": "2022-11-26T11:18:42Z",
-    "type": "OtherSports",
-    "year": 2022
-  },
-  {
-    "date": "2022-11-27",
-    "distance": 29064.9,
-    "elevation_gain": 34.0,
-    "id": 8174774342,
-    "moving_time": 3791.0,
-    "start_date_local": "2022-11-27T11:41:02Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
     "date": "2022-11-27",
     "distance": 5022.7,
     "elevation_gain": 4.0,
@@ -2917,16 +1827,6 @@
     "moving_time": 1684.0,
     "start_date_local": "2022-11-27T17:06:58Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-11-29",
-    "distance": 6141.0,
-    "elevation_gain": 94.0,
-    "id": 8186250785,
-    "moving_time": 4781.0,
-    "start_date_local": "2022-11-29T20:24:58Z",
-    "type": "OtherSports",
     "year": 2022
   },
   {
@@ -2957,16 +1857,6 @@
     "moving_time": 1268.0,
     "start_date_local": "2022-12-05T11:29:59Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-12-05",
-    "distance": 2668.7,
-    "elevation_gain": 8.0,
-    "id": 8211337896,
-    "moving_time": 2144.0,
-    "start_date_local": "2022-12-05T19:31:12Z",
-    "type": "OtherSports",
     "year": 2022
   },
   {
@@ -3007,46 +1897,6 @@
     "moving_time": 2696.0,
     "start_date_local": "2022-12-15T18:19:03Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-12-16",
-    "distance": 12951.4,
-    "elevation_gain": 21.0,
-    "id": 8254453847,
-    "moving_time": 4129.0,
-    "start_date_local": "2022-12-16T11:39:51Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-12-17",
-    "distance": 21960.8,
-    "elevation_gain": 14.9,
-    "id": 8258892927,
-    "moving_time": 3382.0,
-    "start_date_local": "2022-12-17T15:09:17Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-12-17",
-    "distance": 775.3,
-    "elevation_gain": 0.0,
-    "id": 8258915367,
-    "moving_time": 109.0,
-    "start_date_local": "2022-12-17T15:04:46Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-12-17",
-    "distance": 22302.8,
-    "elevation_gain": 26.0,
-    "id": 8258915488,
-    "moving_time": 4368.0,
-    "start_date_local": "2022-12-17T13:30:18Z",
-    "type": "Ride",
     "year": 2022
   },
   {
@@ -3101,16 +1951,6 @@
   },
   {
     "date": "2022-12-28",
-    "distance": 17971.3,
-    "elevation_gain": 33.0,
-    "id": 8301640924,
-    "moving_time": 5129.0,
-    "start_date_local": "2022-12-28T12:00:32Z",
-    "type": "Ride",
-    "year": 2022
-  },
-  {
-    "date": "2022-12-28",
     "distance": 23033.1,
     "elevation_gain": 38.0,
     "id": 8302412751,
@@ -3147,16 +1987,6 @@
     "moving_time": 1448.0,
     "start_date_local": "2023-01-03T13:18:58Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-01-04",
-    "distance": 10969.1,
-    "elevation_gain": 17.0,
-    "id": 8335633686,
-    "moving_time": 3337.0,
-    "start_date_local": "2023-01-04T11:22:23Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -3197,16 +2027,6 @@
     "moving_time": 3713.0,
     "start_date_local": "2023-01-10T17:55:04Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-01-11",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 8374358646,
-    "moving_time": 478.0,
-    "start_date_local": "2023-01-11T15:08:42Z",
-    "type": "WeightTraining",
     "year": 2023
   },
   {
@@ -3290,16 +2110,6 @@
     "year": 2023
   },
   {
-    "date": "2023-01-29",
-    "distance": 8876.0,
-    "elevation_gain": 48.0,
-    "id": 8470964442,
-    "moving_time": 5979.0,
-    "start_date_local": "2023-01-29T12:43:48Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-01-30",
     "distance": 6168.4,
     "elevation_gain": 4.0,
@@ -3350,16 +2160,6 @@
     "year": 2023
   },
   {
-    "date": "2023-02-05",
-    "distance": 16037.0,
-    "elevation_gain": 5.0,
-    "id": 8508837400,
-    "moving_time": 248.0,
-    "start_date_local": "2023-02-05T12:15:43Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-02-06",
     "distance": 13762.5,
     "elevation_gain": 5.0,
@@ -3387,16 +2187,6 @@
     "moving_time": 3600.0,
     "start_date_local": "2023-02-08T17:49:40Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-02-09",
-    "distance": 10792.7,
-    "elevation_gain": 27.0,
-    "id": 8532764884,
-    "moving_time": 3216.0,
-    "start_date_local": "2023-02-09T17:37:57Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -3510,16 +2300,6 @@
     "year": 2023
   },
   {
-    "date": "2023-02-26",
-    "distance": 5415.4,
-    "elevation_gain": 5.0,
-    "id": 8627505479,
-    "moving_time": 3968.0,
-    "start_date_local": "2023-02-26T19:39:11Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-02-27",
     "distance": 6441.7,
     "elevation_gain": 8.0,
@@ -3537,26 +2317,6 @@
     "moving_time": 1865.0,
     "start_date_local": "2023-02-28T11:49:59Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-03-01",
-    "distance": 5832.9,
-    "elevation_gain": 9.4,
-    "id": 8642624886,
-    "moving_time": 2318.0,
-    "start_date_local": "2023-03-01T17:20:01Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-03-05",
-    "distance": 12665.9,
-    "elevation_gain": 31.0,
-    "id": 8663279295,
-    "moving_time": 4597.0,
-    "start_date_local": "2023-03-05T11:17:17Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -3590,16 +2350,6 @@
     "year": 2023
   },
   {
-    "date": "2023-03-19",
-    "distance": 25929.1,
-    "elevation_gain": 42.0,
-    "id": 8741034312,
-    "moving_time": 5792.0,
-    "start_date_local": "2023-03-19T13:01:17Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-03-20",
     "distance": 6702.8,
     "elevation_gain": 2.0,
@@ -3630,26 +2380,6 @@
     "year": 2023
   },
   {
-    "date": "2023-03-25",
-    "distance": 9151.0,
-    "elevation_gain": 27.0,
-    "id": 8774737709,
-    "moving_time": 6602.0,
-    "start_date_local": "2023-03-25T13:36:03Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
-    "date": "2023-03-26",
-    "distance": 17908.0,
-    "elevation_gain": 21.0,
-    "id": 8779534833,
-    "moving_time": 5585.0,
-    "start_date_local": "2023-03-26T11:55:44Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-03-27",
     "distance": 12010.5,
     "elevation_gain": 8.0,
@@ -3670,16 +2400,6 @@
     "year": 2023
   },
   {
-    "date": "2023-03-29",
-    "distance": 11782.2,
-    "elevation_gain": 13.0,
-    "id": 8798243575,
-    "moving_time": 3989.0,
-    "start_date_local": "2023-03-29T18:18:55Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-03-31",
     "distance": 11370.1,
     "elevation_gain": 15.0,
@@ -3687,36 +2407,6 @@
     "moving_time": 4032.0,
     "start_date_local": "2023-03-31T18:06:48Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-04-01",
-    "distance": 12106.5,
-    "elevation_gain": 28.0,
-    "id": 8812510844,
-    "moving_time": 4429.0,
-    "start_date_local": "2023-04-01T12:38:13Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-04-01",
-    "distance": 27460.3,
-    "elevation_gain": 36.0,
-    "id": 8814677490,
-    "moving_time": 7499.0,
-    "start_date_local": "2023-04-01T18:17:03Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-04-02",
-    "distance": 6549.2,
-    "elevation_gain": 17.0,
-    "id": 8817506801,
-    "moving_time": 4351.0,
-    "start_date_local": "2023-04-02T11:16:44Z",
-    "type": "OtherSports",
     "year": 2023
   },
   {
@@ -3767,16 +2457,6 @@
     "moving_time": 16821.0,
     "start_date_local": "2023-04-08T10:08:01Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-04-10",
-    "distance": 36206.0,
-    "elevation_gain": 63.0,
-    "id": 8866696171,
-    "moving_time": 4283.0,
-    "start_date_local": "2023-04-10T17:26:04Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -3850,16 +2530,6 @@
     "year": 2023
   },
   {
-    "date": "2023-04-25",
-    "distance": 11973.3,
-    "elevation_gain": 15.0,
-    "id": 8955068457,
-    "moving_time": 3690.0,
-    "start_date_local": "2023-04-25T17:53:01Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-04-26",
     "distance": 7277.5,
     "elevation_gain": 2.0,
@@ -3917,16 +2587,6 @@
     "moving_time": 2723.0,
     "start_date_local": "2023-05-10T18:57:24Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-05-13",
-    "distance": 29506.1,
-    "elevation_gain": 243.0,
-    "id": 9063166255,
-    "moving_time": 4965.0,
-    "start_date_local": "2023-05-13T13:58:13Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -4010,16 +2670,6 @@
     "year": 2023
   },
   {
-    "date": "2023-06-06",
-    "distance": 3162.0,
-    "elevation_gain": 42.0,
-    "id": 9214699887,
-    "moving_time": 2557.0,
-    "start_date_local": "2023-06-06T19:15:46Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-06-07",
     "distance": 7007.2,
     "elevation_gain": 88.0,
@@ -4050,16 +2700,6 @@
     "year": 2023
   },
   {
-    "date": "2023-06-18",
-    "distance": 28339.9,
-    "elevation_gain": 193.0,
-    "id": 9289068195,
-    "moving_time": 5187.0,
-    "start_date_local": "2023-06-18T12:17:30Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-06-21",
     "distance": 1215.7,
     "elevation_gain": 30.0,
@@ -4067,16 +2707,6 @@
     "moving_time": 336.0,
     "start_date_local": "2023-06-21T12:59:03Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-06-21",
-    "distance": 25212.8,
-    "elevation_gain": 184.0,
-    "id": 9306671426,
-    "moving_time": 3600.0,
-    "start_date_local": "2023-06-21T13:06:33Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -4130,16 +2760,6 @@
     "year": 2023
   },
   {
-    "date": "2023-07-11",
-    "distance": 26868.2,
-    "elevation_gain": 173.0,
-    "id": 9431457825,
-    "moving_time": 3186.0,
-    "start_date_local": "2023-07-11T17:55:58Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-07-12",
     "distance": 15335.0,
     "elevation_gain": 131.0,
@@ -4180,16 +2800,6 @@
     "year": 2023
   },
   {
-    "date": "2023-08-06",
-    "distance": 55157.2,
-    "elevation_gain": 474.0,
-    "id": 9594696851,
-    "moving_time": 10232.0,
-    "start_date_local": "2023-08-06T15:12:12Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-08-07",
     "distance": 5206.1,
     "elevation_gain": 29.0,
@@ -4197,36 +2807,6 @@
     "moving_time": 1778.0,
     "start_date_local": "2023-08-07T17:31:51Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-08-16",
-    "distance": 1010.0,
-    "elevation_gain": 0.0,
-    "id": 9660029493,
-    "moving_time": 2310.0,
-    "start_date_local": "2023-08-16T17:48:54Z",
-    "type": "Swim",
-    "year": 2023
-  },
-  {
-    "date": "2023-08-16",
-    "distance": 6014.7,
-    "elevation_gain": 51.0,
-    "id": 9660266490,
-    "moving_time": 673.0,
-    "start_date_local": "2023-08-16T18:54:49Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-08-17",
-    "distance": 8614.8,
-    "elevation_gain": 105.0,
-    "id": 9666792022,
-    "moving_time": 2687.0,
-    "start_date_local": "2023-08-17T17:39:25Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -4260,16 +2840,6 @@
     "year": 2023
   },
   {
-    "date": "2023-08-25",
-    "distance": 972.4,
-    "elevation_gain": 4.2,
-    "id": 9718523717,
-    "moving_time": 904.0,
-    "start_date_local": "2023-08-25T17:20:05Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-08-28",
     "distance": 5422.5,
     "elevation_gain": 39.0,
@@ -4290,36 +2860,6 @@
     "year": 2023
   },
   {
-    "date": "2023-08-30",
-    "distance": 21071.5,
-    "elevation_gain": 245.0,
-    "id": 9749467720,
-    "moving_time": 6855.0,
-    "start_date_local": "2023-08-30T14:08:35Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-08-31",
-    "distance": 8669.0,
-    "elevation_gain": 142.0,
-    "id": 9756023997,
-    "moving_time": 3114.0,
-    "start_date_local": "2023-08-31T16:10:04Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-09-01",
-    "distance": 8649.5,
-    "elevation_gain": 107.0,
-    "id": 9760936043,
-    "moving_time": 4007.0,
-    "start_date_local": "2023-09-01T11:36:22Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-09-01",
     "distance": 12074.8,
     "elevation_gain": 136.0,
@@ -4327,16 +2867,6 @@
     "moving_time": 3930.0,
     "start_date_local": "2023-09-01T14:14:17Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-09-02",
-    "distance": 25902.3,
-    "elevation_gain": 271.0,
-    "id": 9770235860,
-    "moving_time": 9974.0,
-    "start_date_local": "2023-09-02T14:08:34Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -4390,16 +2920,6 @@
     "year": 2023
   },
   {
-    "date": "2023-09-17",
-    "distance": 41697.1,
-    "elevation_gain": 62.0,
-    "id": 9866552789,
-    "moving_time": 5028.0,
-    "start_date_local": "2023-09-17T12:28:35Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-09-19",
     "distance": 11824.5,
     "elevation_gain": 12.0,
@@ -4440,36 +2960,6 @@
     "year": 2023
   },
   {
-    "date": "2023-10-04",
-    "distance": 2726.0,
-    "elevation_gain": 7.0,
-    "id": 9976558117,
-    "moving_time": 2258.0,
-    "start_date_local": "2023-10-04T18:50:25Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
-    "date": "2023-10-07",
-    "distance": 12130.1,
-    "elevation_gain": 38.0,
-    "id": 9994164380,
-    "moving_time": 3603.0,
-    "start_date_local": "2023-10-07T16:14:56Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
-    "date": "2023-10-09",
-    "distance": 2875.2,
-    "elevation_gain": 2.0,
-    "id": 10012434691,
-    "moving_time": 1714.0,
-    "start_date_local": "2023-10-09T17:33:08Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-10-18",
     "distance": 5108.5,
     "elevation_gain": 3.0,
@@ -4477,26 +2967,6 @@
     "moving_time": 1847.0,
     "start_date_local": "2023-10-18T17:46:33Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-10-23",
-    "distance": 2952.0,
-    "elevation_gain": 25.0,
-    "id": 10102663470,
-    "moving_time": 2590.0,
-    "start_date_local": "2023-10-23T19:02:39Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
-    "date": "2023-10-24",
-    "distance": 3704.0,
-    "elevation_gain": 19.0,
-    "id": 10101001136,
-    "moving_time": 3189.0,
-    "start_date_local": "2023-10-24T17:26:26Z",
-    "type": "OtherSports",
     "year": 2023
   },
   {
@@ -4550,16 +3020,6 @@
     "year": 2023
   },
   {
-    "date": "2023-11-05",
-    "distance": 13370.0,
-    "elevation_gain": 8.0,
-    "id": 10165439427,
-    "moving_time": 4546.0,
-    "start_date_local": "2023-11-05T15:43:17Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-11-07",
     "distance": 5107.1,
     "elevation_gain": 5.0,
@@ -4600,26 +3060,6 @@
     "year": 2023
   },
   {
-    "date": "2023-11-17",
-    "distance": 6954.1,
-    "elevation_gain": 28.0,
-    "id": 10235560160,
-    "moving_time": 5711.0,
-    "start_date_local": "2023-11-17T19:15:25Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
-    "date": "2023-11-18",
-    "distance": 23318.1,
-    "elevation_gain": 21.0,
-    "id": 10240178148,
-    "moving_time": 6344.0,
-    "start_date_local": "2023-11-18T14:14:02Z",
-    "type": "Ride",
-    "year": 2023
-  },
-  {
     "date": "2023-11-19",
     "distance": 9364.0,
     "elevation_gain": 344.0,
@@ -4630,16 +3070,6 @@
     "year": 2023
   },
   {
-    "date": "2023-11-21",
-    "distance": 5470.4,
-    "elevation_gain": 8.0,
-    "id": 10257833270,
-    "moving_time": 4136.0,
-    "start_date_local": "2023-11-21T18:15:08Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-11-24",
     "distance": 10176.0,
     "elevation_gain": 6.0,
@@ -4647,26 +3077,6 @@
     "moving_time": 3551.0,
     "start_date_local": "2023-11-24T17:31:09Z",
     "type": "Run",
-    "year": 2023
-  },
-  {
-    "date": "2023-11-25",
-    "distance": 5493.0,
-    "elevation_gain": 139.0,
-    "id": 10278345444,
-    "moving_time": 4537.0,
-    "start_date_local": "2023-11-25T11:50:26Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
-    "date": "2023-12-03",
-    "distance": 15646.2,
-    "elevation_gain": 9.0,
-    "id": 10322956637,
-    "moving_time": 4741.0,
-    "start_date_local": "2023-12-03T16:26:21Z",
-    "type": "Ride",
     "year": 2023
   },
   {
@@ -4690,16 +3100,6 @@
     "year": 2023
   },
   {
-    "date": "2023-12-13",
-    "distance": 7203.0,
-    "elevation_gain": 7.0,
-    "id": 10374826425,
-    "moving_time": 4811.0,
-    "start_date_local": "2023-12-13T17:43:59Z",
-    "type": "OtherSports",
-    "year": 2023
-  },
-  {
     "date": "2023-12-19",
     "distance": 5066.5,
     "elevation_gain": 9.0,
@@ -4718,16 +3118,6 @@
     "start_date_local": "2023-12-21T17:30:44Z",
     "type": "Run",
     "year": 2023
-  },
-  {
-    "date": "2024-01-01",
-    "distance": 14827.3,
-    "elevation_gain": 30.0,
-    "id": 10471629878,
-    "moving_time": 11477.0,
-    "start_date_local": "2024-01-01T04:00:50Z",
-    "type": "OtherSports",
-    "year": 2024
   },
   {
     "date": "2024-01-03",
@@ -4757,16 +3147,6 @@
     "moving_time": 4399.0,
     "start_date_local": "2024-01-04T13:43:36Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-01-05",
-    "distance": 4266.9,
-    "elevation_gain": 9.0,
-    "id": 10499106677,
-    "moving_time": 1139.0,
-    "start_date_local": "2024-01-05T16:45:52Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -4800,16 +3180,6 @@
     "year": 2024
   },
   {
-    "date": "2024-01-14",
-    "distance": 2354.7,
-    "elevation_gain": 7.0,
-    "id": 10558238424,
-    "moving_time": 2078.0,
-    "start_date_local": "2024-01-14T17:29:31Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-01-15",
     "distance": 11000.5,
     "elevation_gain": 9.0,
@@ -4817,16 +3187,6 @@
     "moving_time": 4596.0,
     "start_date_local": "2024-01-15T17:53:49Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-01-20",
-    "distance": 22009.0,
-    "elevation_gain": 23.0,
-    "id": 10595027240,
-    "moving_time": 6480.0,
-    "start_date_local": "2024-01-20T15:04:09Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -4850,16 +3210,6 @@
     "year": 2024
   },
   {
-    "date": "2024-01-25",
-    "distance": 3139.1,
-    "elevation_gain": 2.0,
-    "id": 10628486721,
-    "moving_time": 2091.0,
-    "start_date_local": "2024-01-25T18:09:26Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-01-28",
     "distance": 6934.1,
     "elevation_gain": 3.0,
@@ -4867,16 +3217,6 @@
     "moving_time": 2885.0,
     "start_date_local": "2024-01-28T11:33:29Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-01-28",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 10648948994,
-    "moving_time": 1073.0,
-    "start_date_local": "2024-01-28T18:55:19Z",
-    "type": "WeightTraining",
     "year": 2024
   },
   {
@@ -4900,16 +3240,6 @@
     "year": 2024
   },
   {
-    "date": "2024-02-10",
-    "distance": 17887.1,
-    "elevation_gain": 23.0,
-    "id": 10733731694,
-    "moving_time": 5733.0,
-    "start_date_local": "2024-02-10T13:49:34Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-02-15",
     "distance": 4660.4,
     "elevation_gain": 9.0,
@@ -4930,16 +3260,6 @@
     "year": 2024
   },
   {
-    "date": "2024-02-18",
-    "distance": 18461.3,
-    "elevation_gain": 31.0,
-    "id": 10787103789,
-    "moving_time": 5957.0,
-    "start_date_local": "2024-02-18T13:34:23Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-02-19",
     "distance": 5117.4,
     "elevation_gain": 263.0,
@@ -4947,46 +3267,6 @@
     "moving_time": 2430.0,
     "start_date_local": "2024-02-19T12:53:39Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-02-22",
-    "distance": 16717.4,
-    "elevation_gain": 52.0,
-    "id": 10816106639,
-    "moving_time": 11024.0,
-    "start_date_local": "2024-02-22T18:38:20Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-02",
-    "distance": 9738.0,
-    "elevation_gain": 19.0,
-    "id": 10874133738,
-    "moving_time": 2937.0,
-    "start_date_local": "2024-03-02T14:53:37Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-02",
-    "distance": 33084.6,
-    "elevation_gain": 44.0,
-    "id": 10876342327,
-    "moving_time": 7713.0,
-    "start_date_local": "2024-03-02T18:26:29Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-09",
-    "distance": 7673.7,
-    "elevation_gain": 51.0,
-    "id": 10928841508,
-    "moving_time": 5533.0,
-    "start_date_local": "2024-03-09T09:37:38Z",
-    "type": "OtherSports",
     "year": 2024
   },
   {
@@ -5010,26 +3290,6 @@
     "year": 2024
   },
   {
-    "date": "2024-03-23",
-    "distance": 39981.2,
-    "elevation_gain": 96.0,
-    "id": 11021528888,
-    "moving_time": 7920.0,
-    "start_date_local": "2024-03-23T13:12:57Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-26",
-    "distance": 14267.0,
-    "elevation_gain": 16.0,
-    "id": 11042790238,
-    "moving_time": 2101.0,
-    "start_date_local": "2024-03-26T18:26:29Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-03-27",
     "distance": 6246.5,
     "elevation_gain": 5.0,
@@ -5037,36 +3297,6 @@
     "moving_time": 2408.0,
     "start_date_local": "2024-03-27T18:14:01Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-31",
-    "distance": 19632.4,
-    "elevation_gain": 32.0,
-    "id": 11076910699,
-    "moving_time": 2751.0,
-    "start_date_local": "2024-03-31T16:23:51Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-03-31",
-    "distance": 10350.2,
-    "elevation_gain": 15.0,
-    "id": 11077949977,
-    "moving_time": 3726.0,
-    "start_date_local": "2024-03-31T17:25:22Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-04-06",
-    "distance": 17434.0,
-    "elevation_gain": 15.0,
-    "id": 11119683106,
-    "moving_time": 5058.0,
-    "start_date_local": "2024-04-06T16:03:46Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5140,26 +3370,6 @@
     "year": 2024
   },
   {
-    "date": "2024-04-27",
-    "distance": 1100.3,
-    "elevation_gain": 50.0,
-    "id": 11275535810,
-    "moving_time": 1574.0,
-    "start_date_local": "2024-04-27T13:33:12Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-04-27",
-    "distance": 5734.4,
-    "elevation_gain": 58.0,
-    "id": 11276385417,
-    "moving_time": 4001.0,
-    "start_date_local": "2024-04-27T17:01:04Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-04-29",
     "distance": 7037.3,
     "elevation_gain": 0.0,
@@ -5167,26 +3377,6 @@
     "moving_time": 2610.0,
     "start_date_local": "2024-04-29T18:11:36Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-05-01",
-    "distance": 2090.0,
-    "elevation_gain": 4.3,
-    "id": 11306534988,
-    "moving_time": 2507.0,
-    "start_date_local": "2024-05-01T13:22:46Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-05-03",
-    "distance": 15761.0,
-    "elevation_gain": 20.0,
-    "id": 11324527332,
-    "moving_time": 3918.0,
-    "start_date_local": "2024-05-03T18:57:46Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5220,16 +3410,6 @@
     "year": 2024
   },
   {
-    "date": "2024-05-14",
-    "distance": 13919.1,
-    "elevation_gain": 31.0,
-    "id": 11411015479,
-    "moving_time": 1949.0,
-    "start_date_local": "2024-05-14T20:13:19Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-05-16",
     "distance": 7220.5,
     "elevation_gain": 0.0,
@@ -5237,16 +3417,6 @@
     "moving_time": 2572.0,
     "start_date_local": "2024-05-16T18:01:19Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-05-17",
-    "distance": 41030.2,
-    "elevation_gain": 37.0,
-    "id": 11433489614,
-    "moving_time": 5245.0,
-    "start_date_local": "2024-05-17T20:08:06Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5260,16 +3430,6 @@
     "year": 2024
   },
   {
-    "date": "2024-05-22",
-    "distance": 16194.1,
-    "elevation_gain": 33.0,
-    "id": 11473334616,
-    "moving_time": 2844.0,
-    "start_date_local": "2024-05-22T19:59:06Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-05-29",
     "distance": 7023.7,
     "elevation_gain": 7.0,
@@ -5280,86 +3440,6 @@
     "year": 2024
   },
   {
-    "date": "2024-05-31",
-    "distance": 6763.9,
-    "elevation_gain": 4.0,
-    "id": 11544542343,
-    "moving_time": 4023.0,
-    "start_date_local": "2024-05-31T20:15:10Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-01",
-    "distance": 8770.4,
-    "elevation_gain": 78.0,
-    "id": 11546591390,
-    "moving_time": 1169.0,
-    "start_date_local": "2024-06-01T13:28:04Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-01",
-    "distance": 9260.1,
-    "elevation_gain": 75.0,
-    "id": 11549781332,
-    "moving_time": 2891.0,
-    "start_date_local": "2024-06-01T19:54:00Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-02",
-    "distance": 8295.1,
-    "elevation_gain": 71.0,
-    "id": 11553776316,
-    "moving_time": 1132.0,
-    "start_date_local": "2024-06-02T12:25:52Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-02",
-    "distance": 8779.6,
-    "elevation_gain": 72.0,
-    "id": 11554328034,
-    "moving_time": 981.0,
-    "start_date_local": "2024-06-02T13:19:39Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-07",
-    "distance": 1710.0,
-    "elevation_gain": 24.0,
-    "id": 11597692152,
-    "moving_time": 983.0,
-    "start_date_local": "2024-06-07T18:41:37Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-15",
-    "distance": 3345.5,
-    "elevation_gain": 26.0,
-    "id": 11656688583,
-    "moving_time": 2284.0,
-    "start_date_local": "2024-06-15T13:14:00Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-15",
-    "distance": 35997.1,
-    "elevation_gain": 377.0,
-    "id": 11657787835,
-    "moving_time": 5977.0,
-    "start_date_local": "2024-06-15T14:30:18Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-06-19",
     "distance": 6620.8,
     "elevation_gain": 8.0,
@@ -5367,16 +3447,6 @@
     "moving_time": 2373.0,
     "start_date_local": "2024-06-19T18:24:15Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-22",
-    "distance": 6947.7,
-    "elevation_gain": 104.0,
-    "id": 11709539688,
-    "moving_time": 2364.0,
-    "start_date_local": "2024-06-22T10:19:07Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5410,26 +3480,6 @@
     "year": 2024
   },
   {
-    "date": "2024-06-29",
-    "distance": 8832.5,
-    "elevation_gain": 70.0,
-    "id": 11769274713,
-    "moving_time": 1118.0,
-    "start_date_local": "2024-06-29T19:59:27Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-06-30",
-    "distance": 9451.1,
-    "elevation_gain": 88.0,
-    "id": 11780083298,
-    "moving_time": 1460.0,
-    "start_date_local": "2024-06-30T14:11:40Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
     "date": "2024-07-01",
     "distance": 5430.3,
     "elevation_gain": 40.0,
@@ -5447,16 +3497,6 @@
     "moving_time": 2238.0,
     "start_date_local": "2024-07-03T19:23:50Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-06",
-    "distance": 29005.3,
-    "elevation_gain": 247.0,
-    "id": 11822775496,
-    "moving_time": 5068.0,
-    "start_date_local": "2024-07-06T16:15:32Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5481,132 +3521,12 @@
   },
   {
     "date": "2024-07-14",
-    "distance": 29555.2,
-    "elevation_gain": 274.0,
-    "id": 11885895206,
-    "moving_time": 6423.0,
-    "start_date_local": "2024-07-14T11:33:28Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-14",
     "distance": 5233.2,
     "elevation_gain": 43.0,
     "id": 11887670871,
     "moving_time": 1927.0,
     "start_date_local": "2024-07-14T18:18:59Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-16",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 11900358530,
-    "moving_time": 1752.0,
-    "start_date_local": "2024-07-16T12:46:37Z",
-    "type": "WeightTraining",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-16",
-    "distance": 5717.2,
-    "elevation_gain": 26.0,
-    "id": 11902522394,
-    "moving_time": 805.0,
-    "start_date_local": "2024-07-16T17:13:21Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-20",
-    "distance": 26446.4,
-    "elevation_gain": 286.0,
-    "id": 11937837078,
-    "moving_time": 5853.0,
-    "start_date_local": "2024-07-20T17:15:54Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-20",
-    "distance": 1186.6,
-    "elevation_gain": 7.6,
-    "id": 11938514021,
-    "moving_time": 1409.0,
-    "start_date_local": "2024-07-20T22:25:13Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-21",
-    "distance": 1541.0,
-    "elevation_gain": 4.2,
-    "id": 11943669975,
-    "moving_time": 1682.0,
-    "start_date_local": "2024-07-21T14:32:03Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-21",
-    "distance": 1982.3,
-    "elevation_gain": 13.0,
-    "id": 11943670363,
-    "moving_time": 2157.0,
-    "start_date_local": "2024-07-21T15:08:36Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-21",
-    "distance": 14678.3,
-    "elevation_gain": 138.0,
-    "id": 11944992666,
-    "moving_time": 2185.0,
-    "start_date_local": "2024-07-21T17:26:29Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-22",
-    "distance": 6021.8,
-    "elevation_gain": 30.0,
-    "id": 11952226469,
-    "moving_time": 890.0,
-    "start_date_local": "2024-07-22T17:30:37Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-22",
-    "distance": 1235.5,
-    "elevation_gain": 0.0,
-    "id": 11952512909,
-    "moving_time": 2503.0,
-    "start_date_local": "2024-07-22T17:52:30Z",
-    "type": "Swim",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-22",
-    "distance": 20647.2,
-    "elevation_gain": 209.0,
-    "id": 11952994523,
-    "moving_time": 2609.0,
-    "start_date_local": "2024-07-22T18:42:40Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-07-27",
-    "distance": 26400.0,
-    "elevation_gain": 224.0,
-    "id": 11994634919,
-    "moving_time": 3194.0,
-    "start_date_local": "2024-07-27T16:58:44Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5630,16 +3550,6 @@
     "year": 2024
   },
   {
-    "date": "2024-07-30",
-    "distance": 54006.0,
-    "elevation_gain": 297.0,
-    "id": 12021364563,
-    "moving_time": 2837.0,
-    "start_date_local": "2024-07-30T21:17:35Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-08-01",
     "distance": 5076.8,
     "elevation_gain": 59.3,
@@ -5647,36 +3557,6 @@
     "moving_time": 1707.0,
     "start_date_local": "2024-08-01T17:59:40Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-08-02",
-    "distance": 5779.5,
-    "elevation_gain": 86.0,
-    "id": 12044970054,
-    "moving_time": 1697.0,
-    "start_date_local": "2024-08-02T18:39:47Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-08-03",
-    "distance": 32736.2,
-    "elevation_gain": 324.0,
-    "id": 12050807705,
-    "moving_time": 4572.0,
-    "start_date_local": "2024-08-03T13:01:07Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-08-04",
-    "distance": 61619.4,
-    "elevation_gain": 667.0,
-    "id": 12062604144,
-    "moving_time": 11252.0,
-    "start_date_local": "2024-08-04T15:30:03Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5700,16 +3580,6 @@
     "year": 2024
   },
   {
-    "date": "2024-08-18",
-    "distance": 4022.3,
-    "elevation_gain": 81.0,
-    "id": 12180503098,
-    "moving_time": 3318.0,
-    "start_date_local": "2024-08-18T17:31:56Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-08-24",
     "distance": 5201.0,
     "elevation_gain": 132.4,
@@ -5717,16 +3587,6 @@
     "moving_time": 2156.0,
     "start_date_local": "2024-08-24T16:58:37Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-08-26",
-    "distance": 1541.3,
-    "elevation_gain": 0.0,
-    "id": 12248542799,
-    "moving_time": 959.0,
-    "start_date_local": "2024-08-26T20:19:43Z",
-    "type": "OtherSports",
     "year": 2024
   },
   {
@@ -5750,36 +3610,6 @@
     "year": 2024
   },
   {
-    "date": "2024-08-29",
-    "distance": 5550.3,
-    "elevation_gain": 17.0,
-    "id": 12274339736,
-    "moving_time": 5464.0,
-    "start_date_local": "2024-08-29T14:07:03Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
-    "date": "2024-08-29",
-    "distance": 52118.5,
-    "elevation_gain": 242.0,
-    "id": 12275445845,
-    "moving_time": 6679.0,
-    "start_date_local": "2024-08-29T19:15:39Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-08-31",
-    "distance": 3690.7,
-    "elevation_gain": 35.0,
-    "id": 12290327184,
-    "moving_time": 2810.0,
-    "start_date_local": "2024-08-31T17:03:38Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-09-01",
     "distance": 10020.8,
     "elevation_gain": 28.0,
@@ -5797,46 +3627,6 @@
     "moving_time": 1471.0,
     "start_date_local": "2024-09-02T19:49:43Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-09-06",
-    "distance": 22023.6,
-    "elevation_gain": 101.0,
-    "id": 12339108815,
-    "moving_time": 3175.0,
-    "start_date_local": "2024-09-06T09:57:29Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-09-06",
-    "distance": 7618.4,
-    "elevation_gain": 26.0,
-    "id": 12340685593,
-    "moving_time": 846.0,
-    "start_date_local": "2024-09-06T15:44:19Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-09-06",
-    "distance": 10821.8,
-    "elevation_gain": 59.0,
-    "id": 12341295025,
-    "moving_time": 1560.0,
-    "start_date_local": "2024-09-06T16:42:39Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-09-09",
-    "distance": 18521.8,
-    "elevation_gain": 108.0,
-    "id": 12367267429,
-    "moving_time": 2856.0,
-    "start_date_local": "2024-09-09T17:26:57Z",
-    "type": "Ride",
     "year": 2024
   },
   {
@@ -5897,26 +3687,6 @@
     "moving_time": 2197.0,
     "start_date_local": "2024-09-25T19:44:29Z",
     "type": "Run",
-    "year": 2024
-  },
-  {
-    "date": "2024-10-05",
-    "distance": 10418.0,
-    "elevation_gain": 8.0,
-    "id": 12588586592,
-    "moving_time": 2578.0,
-    "start_date_local": "2024-10-05T15:10:43Z",
-    "type": "Ride",
-    "year": 2024
-  },
-  {
-    "date": "2024-10-05",
-    "distance": 4266.0,
-    "elevation_gain": 93.0,
-    "id": 12588589717,
-    "moving_time": 4213.0,
-    "start_date_local": "2024-10-05T10:37:18Z",
-    "type": "OtherSports",
     "year": 2024
   },
   {
@@ -6010,16 +3780,6 @@
     "year": 2024
   },
   {
-    "date": "2024-12-08",
-    "distance": 5486.0,
-    "elevation_gain": 68.0,
-    "id": 13072631226,
-    "moving_time": 3771.0,
-    "start_date_local": "2024-12-08T14:43:30Z",
-    "type": "OtherSports",
-    "year": 2024
-  },
-  {
     "date": "2024-12-10",
     "distance": 6496.0,
     "elevation_gain": 16.0,
@@ -6060,26 +3820,6 @@
     "year": 2024
   },
   {
-    "date": "2025-01-01",
-    "distance": 3752.0,
-    "elevation_gain": 56.0,
-    "id": 13238574405,
-    "moving_time": 4871.0,
-    "start_date_local": "2025-01-01T14:04:50Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-01-04",
-    "distance": 3563.0,
-    "elevation_gain": 68.0,
-    "id": 13264416181,
-    "moving_time": 4269.0,
-    "start_date_local": "2025-01-04T14:57:04Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-01-05",
     "distance": 5735.8,
     "elevation_gain": 8.0,
@@ -6097,16 +3837,6 @@
     "moving_time": 1366.0,
     "start_date_local": "2025-01-07T18:20:18Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-01-11",
-    "distance": 6207.9,
-    "elevation_gain": 141.0,
-    "id": 13324249542,
-    "moving_time": 6289.0,
-    "start_date_local": "2025-01-11T12:20:27Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -6147,36 +3877,6 @@
     "moving_time": 2408.0,
     "start_date_local": "2025-01-17T18:27:06Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-01-18",
-    "distance": 2119.7,
-    "elevation_gain": 17.0,
-    "id": 13386236375,
-    "moving_time": 2127.0,
-    "start_date_local": "2025-01-18T12:41:25Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-01-18",
-    "distance": 5409.0,
-    "elevation_gain": 58.0,
-    "id": 13388163224,
-    "moving_time": 6866.0,
-    "start_date_local": "2025-01-18T14:12:56Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-01-20",
-    "distance": 5056.9,
-    "elevation_gain": 22.0,
-    "id": 13406187991,
-    "moving_time": 3471.0,
-    "start_date_local": "2025-01-20T17:31:52Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -6270,16 +3970,6 @@
     "year": 2025
   },
   {
-    "date": "2025-02-09",
-    "distance": 2338.1,
-    "elevation_gain": 43.0,
-    "id": 13580707986,
-    "moving_time": 1894.0,
-    "start_date_local": "2025-02-09T12:54:10Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-02-10",
     "distance": 5696.6,
     "elevation_gain": 4.0,
@@ -6307,16 +3997,6 @@
     "moving_time": 2779.0,
     "start_date_local": "2025-02-14T17:17:05Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-02-15",
-    "distance": 2647.5,
-    "elevation_gain": 23.2,
-    "id": 13634100897,
-    "moving_time": 3391.0,
-    "start_date_local": "2025-02-15T15:58:55Z",
-    "type": "Swim",
     "year": 2025
   },
   {
@@ -6411,72 +4091,12 @@
   },
   {
     "date": "2025-03-09",
-    "distance": 2761.7,
-    "elevation_gain": 66.0,
-    "id": 13832898462,
-    "moving_time": 2577.0,
-    "start_date_local": "2025-03-09T13:36:23Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-09",
     "distance": 11352.1,
     "elevation_gain": 20.0,
     "id": 13835654953,
     "moving_time": 5064.0,
     "start_date_local": "2025-03-09T16:15:28Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-11",
-    "distance": 30677.8,
-    "elevation_gain": 75.0,
-    "id": 13852331575,
-    "moving_time": 7355.0,
-    "start_date_local": "2025-03-11T13:54:49Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-14",
-    "distance": 6902.2,
-    "elevation_gain": 20.0,
-    "id": 13892117169,
-    "moving_time": 1012.0,
-    "start_date_local": "2025-03-14T19:05:39Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-15",
-    "distance": 14479.4,
-    "elevation_gain": 53.0,
-    "id": 13892117238,
-    "moving_time": 5041.0,
-    "start_date_local": "2025-03-15T14:48:41Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-15",
-    "distance": 15587.6,
-    "elevation_gain": 37.0,
-    "id": 13892126681,
-    "moving_time": 5260.0,
-    "start_date_local": "2025-03-15T17:50:12Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-16",
-    "distance": 10311.0,
-    "elevation_gain": 230.0,
-    "id": 13898826967,
-    "moving_time": 11506.0,
-    "start_date_local": "2025-03-16T12:01:40Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -6507,16 +4127,6 @@
     "moving_time": 2873.0,
     "start_date_local": "2025-03-22T17:56:16Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-03-23",
-    "distance": 27674.8,
-    "elevation_gain": 272.0,
-    "id": 13973724790,
-    "moving_time": 7016.0,
-    "start_date_local": "2025-03-23T13:22:27Z",
-    "type": "Ride",
     "year": 2025
   },
   {
@@ -6730,16 +4340,6 @@
     "year": 2025
   },
   {
-    "date": "2025-06-25",
-    "distance": 12813.0,
-    "elevation_gain": 36.0,
-    "id": 14938081088,
-    "moving_time": 4197.0,
-    "start_date_local": "2025-06-25T19:33:21Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
     "date": "2025-06-30",
     "distance": 3508.0,
     "elevation_gain": 25.0,
@@ -6757,16 +4357,6 @@
     "moving_time": 1455.0,
     "start_date_local": "2025-07-01T20:38:05Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-07-02",
-    "distance": 39392.7,
-    "elevation_gain": 186.0,
-    "id": 14987054873,
-    "moving_time": 8985.0,
-    "start_date_local": "2025-07-02T18:59:21Z",
-    "type": "Ride",
     "year": 2025
   },
   {
@@ -6800,16 +4390,6 @@
     "year": 2025
   },
   {
-    "date": "2025-07-10",
-    "distance": 2977.6,
-    "elevation_gain": 46.0,
-    "id": 15070370413,
-    "moving_time": 3106.0,
-    "start_date_local": "2025-07-10T18:57:24Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-07-11",
     "distance": 8223.3,
     "elevation_gain": 54.1,
@@ -6817,16 +4397,6 @@
     "moving_time": 3023.0,
     "start_date_local": "2025-07-11T17:15:59Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-07-12",
-    "distance": 3436.7,
-    "elevation_gain": 37.0,
-    "id": 15091767514,
-    "moving_time": 2991.0,
-    "start_date_local": "2025-07-12T18:54:21Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -6847,16 +4417,6 @@
     "moving_time": 3683.0,
     "start_date_local": "2025-07-16T17:37:28Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-07-20",
-    "distance": 4064.9,
-    "elevation_gain": 45.0,
-    "id": 15175055941,
-    "moving_time": 2788.0,
-    "start_date_local": "2025-07-20T13:00:42Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -6900,16 +4460,6 @@
     "year": 2025
   },
   {
-    "date": "2025-08-04",
-    "distance": 5024.5,
-    "elevation_gain": 99.0,
-    "id": 15353577757,
-    "moving_time": 4086.0,
-    "start_date_local": "2025-08-04T17:43:50Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-08-05",
     "distance": 6725.6,
     "elevation_gain": 13.0,
@@ -6940,16 +4490,6 @@
     "year": 2025
   },
   {
-    "date": "2025-08-10",
-    "distance": 49767.1,
-    "elevation_gain": 349.0,
-    "id": 15409889960,
-    "moving_time": 6332.0,
-    "start_date_local": "2025-08-10T12:29:45Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
     "date": "2025-08-12",
     "distance": 5167.0,
     "elevation_gain": 9.0,
@@ -6960,16 +4500,6 @@
     "year": 2025
   },
   {
-    "date": "2025-08-18",
-    "distance": 5028.3,
-    "elevation_gain": 50.0,
-    "id": 15502169457,
-    "moving_time": 1971.0,
-    "start_date_local": "2025-08-18T18:36:15Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
     "date": "2025-08-19",
     "distance": 10266.6,
     "elevation_gain": 97.0,
@@ -6977,56 +4507,6 @@
     "moving_time": 3589.0,
     "start_date_local": "2025-08-19T17:51:30Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-08-21",
-    "distance": 12917.2,
-    "elevation_gain": 117.0,
-    "id": 15538319497,
-    "moving_time": 2264.0,
-    "start_date_local": "2025-08-21T19:41:39Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-08-22",
-    "distance": 54512.8,
-    "elevation_gain": 345.0,
-    "id": 15548397158,
-    "moving_time": 10762.0,
-    "start_date_local": "2025-08-22T15:34:00Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-08-28",
-    "distance": 35231.9,
-    "elevation_gain": 196.0,
-    "id": 15623063372,
-    "moving_time": 6046.0,
-    "start_date_local": "2025-08-28T09:07:20Z",
-    "type": "Ride",
-    "year": 2025
-  },
-  {
-    "date": "2025-08-30",
-    "distance": 5093.0,
-    "elevation_gain": 31.0,
-    "id": 15638769269,
-    "moving_time": 5278.0,
-    "start_date_local": "2025-08-30T16:39:11Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-02",
-    "distance": 36272.0,
-    "elevation_gain": 208.0,
-    "id": 15667925558,
-    "moving_time": 6272.0,
-    "start_date_local": "2025-09-02T09:00:19Z",
-    "type": "Ride",
     "year": 2025
   },
   {
@@ -7050,46 +4530,6 @@
     "year": 2025
   },
   {
-    "date": "2025-09-14",
-    "distance": 5532.0,
-    "elevation_gain": 90.0,
-    "id": 15807670554,
-    "moving_time": 5682.0,
-    "start_date_local": "2025-09-14T12:13:17Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-17",
-    "distance": 2845.0,
-    "elevation_gain": 142.0,
-    "id": 15845023679,
-    "moving_time": 2339.0,
-    "start_date_local": "2025-09-17T19:38:12Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-20",
-    "distance": 2830.5,
-    "elevation_gain": 51.0,
-    "id": 15878917626,
-    "moving_time": 1995.0,
-    "start_date_local": "2025-09-20T14:32:06Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-21",
-    "distance": 6181.2,
-    "elevation_gain": 77.0,
-    "id": 15891151962,
-    "moving_time": 4342.0,
-    "start_date_local": "2025-09-21T18:59:39Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-09-22",
     "distance": 5097.1,
     "elevation_gain": 5.0,
@@ -7110,26 +4550,6 @@
     "year": 2025
   },
   {
-    "date": "2025-09-24",
-    "distance": 2492.4,
-    "elevation_gain": 127.0,
-    "id": 15923357511,
-    "moving_time": 2177.0,
-    "start_date_local": "2025-09-24T19:29:09Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-09-27",
-    "distance": 7834.1,
-    "elevation_gain": 153.0,
-    "id": 15961258436,
-    "moving_time": 5514.0,
-    "start_date_local": "2025-09-27T14:03:00Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-09-29",
     "distance": 5326.3,
     "elevation_gain": 2.0,
@@ -7137,16 +4557,6 @@
     "moving_time": 1735.0,
     "start_date_local": "2025-09-29T18:30:10Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-10-11",
-    "distance": 3606.3,
-    "elevation_gain": 199.0,
-    "id": 16106233487,
-    "moving_time": 4900.0,
-    "start_date_local": "2025-10-11T12:55:53Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -7280,16 +4690,6 @@
     "year": 2025
   },
   {
-    "date": "2025-11-06",
-    "distance": 3079.8,
-    "elevation_gain": 2.0,
-    "id": 16374406206,
-    "moving_time": 1962.0,
-    "start_date_local": "2025-11-06T16:17:33Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-11-08",
     "distance": 11402.0,
     "elevation_gain": 148.0,
@@ -7360,16 +4760,6 @@
     "year": 2025
   },
   {
-    "date": "2025-11-22",
-    "distance": 4035.7,
-    "elevation_gain": 89.0,
-    "id": 16531934555,
-    "moving_time": 3117.0,
-    "start_date_local": "2025-11-22T12:04:47Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-11-23",
     "distance": 5072.2,
     "elevation_gain": 0.0,
@@ -7407,26 +4797,6 @@
     "moving_time": 2758.0,
     "start_date_local": "2025-11-29T11:26:53Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-11-29",
-    "distance": 3301.7,
-    "elevation_gain": 55.0,
-    "id": 16601139392,
-    "moving_time": 2234.0,
-    "start_date_local": "2025-11-29T16:18:10Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-11-30",
-    "distance": 2909.2,
-    "elevation_gain": 45.0,
-    "id": 16609869637,
-    "moving_time": 3122.0,
-    "start_date_local": "2025-11-30T13:32:23Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -7500,16 +4870,6 @@
     "year": 2025
   },
   {
-    "date": "2025-12-14",
-    "distance": 5618.9,
-    "elevation_gain": 93.0,
-    "id": 16740809760,
-    "moving_time": 4802.0,
-    "start_date_local": "2025-12-14T14:17:10Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-12-15",
     "distance": 6429.9,
     "elevation_gain": 12.0,
@@ -7540,16 +4900,6 @@
     "year": 2025
   },
   {
-    "date": "2025-12-19",
-    "distance": 6250.1,
-    "elevation_gain": 33.0,
-    "id": 16786197165,
-    "moving_time": 4390.0,
-    "start_date_local": "2025-12-19T17:35:02Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-12-20",
     "distance": 18011.9,
     "elevation_gain": 281.2,
@@ -7557,16 +4907,6 @@
     "moving_time": 6747.0,
     "start_date_local": "2025-12-20T13:13:02Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-12-21",
-    "distance": 4332.2,
-    "elevation_gain": 96.0,
-    "id": 16804300451,
-    "moving_time": 3565.0,
-    "start_date_local": "2025-12-21T15:19:57Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -7580,16 +4920,6 @@
     "year": 2025
   },
   {
-    "date": "2025-12-23",
-    "distance": 3270.0,
-    "elevation_gain": 7.0,
-    "id": 16821952288,
-    "moving_time": 2880.0,
-    "start_date_local": "2025-12-23T18:14:44Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-12-24",
     "distance": 8141.7,
     "elevation_gain": 11.0,
@@ -7600,16 +4930,6 @@
     "year": 2025
   },
   {
-    "date": "2025-12-24",
-    "distance": 2857.4,
-    "elevation_gain": 12.0,
-    "id": 16831481518,
-    "moving_time": 2268.0,
-    "start_date_local": "2025-12-24T18:48:59Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
     "date": "2025-12-25",
     "distance": 7491.0,
     "elevation_gain": 18.0,
@@ -7617,26 +4937,6 @@
     "moving_time": 2652.0,
     "start_date_local": "2025-12-25T12:10:54Z",
     "type": "Run",
-    "year": 2025
-  },
-  {
-    "date": "2025-12-26",
-    "distance": 4539.6,
-    "elevation_gain": 63.0,
-    "id": 16843211366,
-    "moving_time": 3551.0,
-    "start_date_local": "2025-12-26T12:09:01Z",
-    "type": "OtherSports",
-    "year": 2025
-  },
-  {
-    "date": "2025-12-26",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 16844165498,
-    "moving_time": 4472.0,
-    "start_date_local": "2025-12-26T13:19:53Z",
-    "type": "OtherSports",
     "year": 2025
   },
   {
@@ -7670,26 +4970,6 @@
     "year": 2025
   },
   {
-    "date": "2026-01-01",
-    "distance": 5053.7,
-    "elevation_gain": 34.0,
-    "id": 16909398486,
-    "moving_time": 4393.0,
-    "start_date_local": "2026-01-01T07:36:18Z",
-    "type": "OtherSports",
-    "year": 2026
-  },
-  {
-    "date": "2026-01-02",
-    "distance": 907.0,
-    "elevation_gain": 19.0,
-    "id": 16910548290,
-    "moving_time": 831.0,
-    "start_date_local": "2026-01-02T12:23:17Z",
-    "type": "OtherSports",
-    "year": 2026
-  },
-  {
     "date": "2026-01-03",
     "distance": 6017.9,
     "elevation_gain": 172.7,
@@ -7707,16 +4987,6 @@
     "moving_time": 2378.0,
     "start_date_local": "2026-01-10T18:17:35Z",
     "type": "Run",
-    "year": 2026
-  },
-  {
-    "date": "2026-01-11",
-    "distance": 3102.0,
-    "elevation_gain": 63.0,
-    "id": 17011546324,
-    "moving_time": 3522.0,
-    "start_date_local": "2026-01-11T13:13:49Z",
-    "type": "OtherSports",
     "year": 2026
   },
   {
@@ -7750,26 +5020,6 @@
     "year": 2026
   },
   {
-    "date": "2026-01-18",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 17091175251,
-    "moving_time": 5368.0,
-    "start_date_local": "2026-01-18T11:54:01Z",
-    "type": "OtherSports",
-    "year": 2026
-  },
-  {
-    "date": "2026-01-20",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": 17117682273,
-    "moving_time": 2128.0,
-    "start_date_local": "2026-01-20T18:48:34Z",
-    "type": "OtherSports",
-    "year": 2026
-  },
-  {
     "date": "2026-01-24",
     "distance": 21684.8,
     "elevation_gain": 239.0,
@@ -7777,16 +5027,6 @@
     "moving_time": 7444.0,
     "start_date_local": "2026-01-24T13:52:38Z",
     "type": "Run",
-    "year": 2026
-  },
-  {
-    "date": "2026-01-25",
-    "distance": 7828.9,
-    "elevation_gain": 79.0,
-    "id": 17171875678,
-    "moving_time": 7132.0,
-    "start_date_local": "2026-01-25T12:21:11Z",
-    "type": "OtherSports",
     "year": 2026
   },
   {
@@ -7817,26 +5057,6 @@
     "moving_time": 4262.0,
     "start_date_local": "2026-01-31T12:02:30Z",
     "type": "Run",
-    "year": 2026
-  },
-  {
-    "date": "2026-02-01",
-    "distance": 1622.2,
-    "elevation_gain": 18.0,
-    "id": 17250844812,
-    "moving_time": 1658.0,
-    "start_date_local": "2026-02-01T11:47:10Z",
-    "type": "OtherSports",
-    "year": 2026
-  },
-  {
-    "date": "2026-02-03",
-    "distance": 2312.0,
-    "elevation_gain": 4.0,
-    "id": 17272991724,
-    "moving_time": 1224.0,
-    "start_date_local": "2026-02-03T17:16:07Z",
-    "type": "OtherSports",
     "year": 2026
   },
   {
