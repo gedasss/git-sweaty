@@ -70,7 +70,7 @@ No local clone is required for this setup. You can run everything from GitHub Ac
    - generate SVGs in `heatmaps/`
    - build `site/data.json`
 
-### Activity Type Note
+## Activity Type Note
 
 By default, all Strava activity types are included automatically when you run the workflow.
 
