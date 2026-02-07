@@ -5060,6 +5060,16 @@
     "year": 2026
   },
   {
+    "date": "2026-02-03",
+    "distance": 2312.0,
+    "elevation_gain": 4.0,
+    "id": 17272991724,
+    "moving_time": 1224.0,
+    "start_date_local": "2026-02-03T17:16:07Z",
+    "type": "NordicSki",
+    "year": 2026
+  },
+  {
     "date": "2026-02-06",
     "distance": 7173.0,
     "elevation_gain": 8.0,
@@ -5067,6 +5077,16 @@
     "moving_time": 2958.0,
     "start_date_local": "2026-02-06T17:11:15Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-07",
+    "distance": 4109.9,
+    "elevation_gain": 28.0,
+    "id": 17316344222,
+    "moving_time": 2243.0,
+    "start_date_local": "2026-02-07T13:29:37Z",
+    "type": "NordicSki",
     "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T06:19:46.935392+00:00",
+  "generated_at": "2026-02-07T17:55:52.523948+00:00",
   "years": {
     "2015": {
       "Run": {
@@ -4427,6 +4427,26 @@
       }
     },
     "2026": {
+      "NordicSki": {
+        "2026-02-03": {
+          "activity_ids": [
+            17272991724
+          ],
+          "count": 1,
+          "distance": 2312.0,
+          "elevation_gain": 4.0,
+          "moving_time": 1224.0
+        },
+        "2026-02-07": {
+          "activity_ids": [
+            17316344222
+          ],
+          "count": 1,
+          "distance": 4109.9,
+          "elevation_gain": 28.0,
+          "moving_time": 2243.0
+        }
+      },
       "Run": {
         "2026-01-03": {
           "activity_ids": [
