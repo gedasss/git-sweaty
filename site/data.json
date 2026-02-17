@@ -3083,6 +3083,12 @@
       "hour": 11,
       "type": "NordicSki",
       "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 12,
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7659,11 +7665,20 @@
           "distance": 7328.9,
           "elevation_gain": 5.0,
           "moving_time": 2944.0
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            17414795428
+          ],
+          "count": 1,
+          "distance": 10037.6,
+          "elevation_gain": 22.0,
+          "moving_time": 3825.0
         }
       }
     }
   },
-  "generated_at": "2026-02-16T06:32:19.561762+00:00",
+  "generated_at": "2026-02-17T06:28:14.307286+00:00",
   "type_meta": {
     "NordicSki": {
       "accent": "#72efdd",
