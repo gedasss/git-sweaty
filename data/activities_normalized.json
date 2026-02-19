@@ -5158,5 +5158,15 @@
     "start_date_local": "2026-02-17T13:24:57Z",
     "type": "NordicSki",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 6216.1,
+    "elevation_gain": 98.0,
+    "id": 17442969016,
+    "moving_time": 2463.0,
+    "start_date_local": "2026-02-18T13:15:04Z",
+    "type": "NordicSki",
+    "year": 2026
   }
 ]
