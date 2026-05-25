@@ -1,0 +1,35 @@
+{
+  "activity_scope": {
+    "exclude_types": [],
+    "featured_types": [
+      "NordicSki",
+      "Run"
+    ],
+    "group_aliases": {},
+    "group_other_types": true,
+    "include_all_types": false,
+    "other_bucket": "OtherSports",
+    "type_aliases": {
+      "EBikeRide": "Ride",
+      "GravelRide": "Ride",
+      "Handcycle": "Ride",
+      "IndoorRide": "Ride",
+      "MountainBikeRide": "Ride",
+      "Ride": "Ride",
+      "StrengthTraining": "WeightTraining",
+      "TrailRun": "Run",
+      "Treadmill": "Run",
+      "Velomobile": "Ride",
+      "VirtualRide": "Ride",
+      "VirtualRun": "Run",
+      "WeightTraining": "WeightTraining"
+    }
+  },
+  "after": 0,
+  "completed": true,
+  "last_run_utc": "2026-05-25T12:23:31.865909+00:00",
+  "newest_seen_ts": 1779607900,
+  "next_before": null,
+  "oldest_seen_ts": 946687818,
+  "rate_limited": false
+}
