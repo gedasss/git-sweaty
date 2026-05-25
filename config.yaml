@@ -21,16 +21,17 @@ rate_limits:
   safety_buffer: 2
   min_interval_seconds: 10
 #    - WeightTraining
-#    - Ride 
+#    - Ride
 activities:
   types:
     - Run
     - NordicSki
+    - Walk
 
-  include_all_types: false   # include all Strava activity types by default
-  group_other_types: true   # when true, map non-featured types into smart buckets
+  include_all_types: false # include all Strava activity types by default
+  group_other_types: true # when true, map non-featured types into smart buckets
   other_bucket: OtherSports # fallback bucket for unknown activity categories
-  group_aliases: {}         # optional explicit group overrides, e.g. {SkiErg: WinterSports}
+  group_aliases: {} # optional explicit group overrides, e.g. {SkiErg: WinterSports}
   type_aliases:
     TrailRun: Run
     VirtualRun: Run
@@ -47,5 +48,5 @@ activities:
     WeightTraining: WeightTraining
 
 units:
-  distance: "km"   # "mi" or "km"
-  elevation: "m"  # "ft" or "m"
+  distance: "km" # "mi" or "km"
+  elevation: "m" # "ft" or "m"
