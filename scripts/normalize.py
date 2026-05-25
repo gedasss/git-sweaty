@@ -192,7 +192,7 @@ def normalize() -> List[Dict]:
         items = [item for item in items if item.get("type") not in exclude_types]
     if not include_all_types:
         items = [item for item in items if item.get("type") in featured_set]
-    items.sort(key=lambda x: (x["date"], x["id"]))
+    items.sort(key=lambda x: (x["date"], str(x["id"])))
     return items
 
 
