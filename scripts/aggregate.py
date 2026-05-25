@@ -49,7 +49,7 @@ def aggregate():
     for year_data in data.values():
         for type_data in year_data.values():
             for entry in type_data.values():
-                entry["activity_ids"] = sorted(entry["activity_ids"])
+                entry["activity_ids"] = sorted(entry["activity_ids"], key=str)
 
     output = {
         "generated_at": utc_now().isoformat(),
