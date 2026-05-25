@@ -12,6 +12,7 @@ def aggregate():
     config = load_config()
     activities_cfg = config.get("activities", {}) or {}
     include_all_types = bool(activities_cfg.get("include_all_types", True))
+    exclude_types = {str(item) for item in (activities_cfg.get("exclude_types", []) or [])}
     featured_types = set(activities_cfg.get("types", []) or [])
 
     items = read_json(IN_PATH) if os.path.exists(IN_PATH) else []
@@ -20,6 +21,8 @@ def aggregate():
 
     for item in items:
         activity_type = item.get("type")
+        if activity_type in exclude_types:
+            continue
         if not include_all_types and featured_types and activity_type not in featured_types:
             continue
         date = item.get("date")
@@ -57,7 +60,7 @@ def aggregate():
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Aggregate normalized activities by day/type/year")
-    args = parser.parse_args()
+    parser.parse_args()
 
     ensure_dir("data")
     output = aggregate()

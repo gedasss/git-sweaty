@@ -7,6 +7,8 @@ import yaml
 
 CONFIG_PATH = "config.yaml"
 CONFIG_LOCAL_PATH = "config.local.yaml"
+DEFAULT_SOURCE = "strava"
+SUPPORTED_SOURCES = {"strava", "garmin"}
 
 
 def _deep_merge(base: Dict[str, Any], override: Dict[str, Any]) -> Dict[str, Any]:
@@ -35,6 +37,18 @@ def load_config() -> Dict[str, Any]:
     return base
 
 
+def normalize_source(value: Any) -> str:
+    source = str(value or DEFAULT_SOURCE).strip().lower()
+    if source not in SUPPORTED_SOURCES:
+        allowed = ", ".join(sorted(SUPPORTED_SOURCES))
+        raise ValueError(f"Unsupported source '{source}'. Supported values: {allowed}.")
+    return source
+
+
+def raw_activity_dir(source: str) -> str:
+    return os.path.join("activities", "raw", normalize_source(source))
+
+
 def ensure_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
 
@@ -56,8 +70,25 @@ def utc_now() -> datetime:
     return datetime.now(timezone.utc)
 
 
-def to_date_str(dt: datetime) -> str:
-    return dt.strftime("%Y-%m-%d")
+def parse_iso_datetime(value: str) -> datetime:
+    if not value:
+        raise ValueError("Missing datetime")
+    if value.endswith("Z"):
+        value = value[:-1] + "+00:00"
+    try:
+        return datetime.fromisoformat(value)
+    except ValueError:
+        # fallback: strip fractional seconds when offset parsing fails
+        if "." in value:
+            base, rest = value.split(".", 1)
+            if "+" in rest:
+                tz = "+" + rest.split("+", 1)[1]
+            elif "-" in rest:
+                tz = "-" + rest.split("-", 1)[1]
+            else:
+                tz = ""
+            return datetime.fromisoformat(base + tz)
+        raise
 
 
 def format_duration(seconds: float) -> str:

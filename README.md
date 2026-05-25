@@ -1,120 +1,185 @@
-# Workout --> GitHub Heatmap Dashboard
+<p align="center">
+  <img src="./site/git-sweaty-logo.svg" alt="git-sweaty-logo" /><br>
+  <sub>
+    (create your own README banner like this
+    <a href="https://github.com/aspain/heatmap-logo">here</a>)
+  </sub>
+</p>
 
-Sync Strava activities, normalize and aggregate them, and generate GitHub-style calendar heatmaps (SVG) per workout type/year. A single preview is shown in this README, with the full interactive view on GitHub Pages.
+# Workout --> Interactive Dashboard
 
-- Live site: [Interactive Heatmaps](https://gedasss.github.io/git-sweaty/)
-- For forks, this link is auto-updated to your own GitHub Pages URL after your first successful sync run.
+Turn your Strava and Garmin activities into GitHub-style contribution graphs. Automatically generate a free, interactive dashboard updated daily on GitHub Pages.  
 
-<!-- HEATMAPS:START -->
-Preview:
+**No coding required.**  
 
-![All Workouts 2025](heatmaps/AllWorkouts/2025.svg)
-<!-- HEATMAPS:END -->
+View the Interactive [Activity Dashboard](http://adamspain.com/git-sweaty/).  
+Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
+
+
+![Dashboard Preview](site/readme-preview-20260222a.png)
 
 ## Quick Start
 
-No local clone is required for this setup. You can run everything from GitHub Actions. Clone locally only if you want to customize or run the scripts yourself.
+### macOS / Linux
 
-1. Fork this repo to your account: [Fork this repository](../../fork)
+Run this in Terminal.
 
-2. Create a Strava API application at [Strava API Settings](https://www.strava.com/settings/api). Set **Authorization Callback Domain** to `localhost`, then copy:
-   - `STRAVA_CLIENT_ID`
-   - `STRAVA_CLIENT_SECRET`
-
-3. Generate a **refresh token** via OAuth (the token shown on the Strava API page often does **not** work).
-   Open this URL in your browser (replace `CLIENT_ID` with the Client ID value from your Strava API application page):
-
-   ```text
-   https://www.strava.com/oauth/authorize?client_id=CLIENT_ID&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read,activity:read_all
-   ```
-
-   After approval you’ll be redirected to a `localhost` URL that won’t load. That’s expected.
-   Example redirect URL:
-
-   ```text
-   http://localhost/exchange_token?state=&code=12345&scope=read,activity:read_all
-   ```
-
-   Copy the value of the `code` query parameter from the failed URL (in this example, `12345`) and exchange it.
-   Run this command in a terminal app (macOS/Linux Terminal, or Windows PowerShell/Command Prompt).
-   Use the `CLIENT_ID` and `CLIENT_SECRET` values from your Strava API application page in Step 2.
-
-   ```bash
-   curl -X POST https://www.strava.com/oauth/token \
-     -d client_id=CLIENT_ID \
-     -d client_secret=CLIENT_SECRET \
-     -d code=THE_CODE_FROM_THE_URL \
-     -d grant_type=authorization_code
-   ```
-
-   Copy the `refresh_token` from the response.
-
-4. Add GitHub secrets (repo → [Settings → Secrets and variables → Actions](../../settings/secrets/actions)):
-   - `STRAVA_CLIENT_ID`
-   - `STRAVA_CLIENT_SECRET`
-   - `STRAVA_REFRESH_TOKEN` (from the OAuth exchange above)
-
-5. Enable GitHub Pages (repo → [Settings → Pages](../../settings/pages)):
-   - Under **Build and deployment**, set **Source** to **GitHub Actions**.
-
-6. Run [Sync Strava Heatmaps](../../actions/workflows/sync.yml):
-   - If GitHub shows an **Enable workflows** button in [Actions](../../actions), click it first.
-   - Go to [Actions](../../actions) → [Sync Strava Heatmaps](../../actions/workflows/sync.yml) → **Run workflow**.
-   - The same workflow is also scheduled in `.github/workflows/sync.yml` (daily at `06:00 UTC`).
-
-7. Open your live site at `https://<your-username>.github.io/<repo-name>/` after deploy finishes.
-   This workflow will:
-   - sync raw activities into `activities/raw/` (local-only; not committed)
-   - normalize + merge into `data/activities_normalized.json` (persisted history)
-   - aggregate into `data/daily_aggregates.json`
-   - generate SVGs in `heatmaps/`
-   - build `site/data.json`
-
-## Activity Type Note
-
-By default, all Strava activity types are included automatically when you run the workflow.
-
-To narrow the dashboard to specific activity types:
-1. Edit [`config.yaml`](config.yaml) in your fork.
-2. Set `activities.include_all_types: false`.
-3. Set `activities.types` to only the types you want.
-4. Run [Sync Strava Heatmaps](../../actions/workflows/sync.yml) again.
-
-Example:
-
-```yaml
-activities:
-  include_all_types: false
-  types:
-    - Run
-    - Ride
-    - WeightTraining
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scripts/bootstrap.sh)
 ```
 
-## Configuration (Optional)
+### Windows (requires WSL)
 
-Everything in this section is optional. Defaults work without changes.
-Base settings live in `config.yaml`.
+Run this in PowerShell.
 
-Key options:
-- `sync.start_date` (optional `YYYY-MM-DD` lower bound for history)
-- `sync.lookback_years` (optional rolling lower bound; used only when `sync.start_date` is unset)
-- `sync.recent_days` (sync recent activities even while backfilling)
-- `sync.resume_backfill` (persist cursor to continue older pages across days)
-- `activities.types` (featured activity types shown first in UI)
-- `activities.include_all_types` (include non-featured Strava types; default `true`)
-- `activities.group_other_types` (auto-group non-featured types into smart categories)
-- `activities.other_bucket` (fallback group name when no smart match is found)
-- `activities.group_aliases` (optional explicit map of a raw/canonical type to a group)
-- `activities.type_aliases` (map Strava types to your canonical types before grouping)
-- `units.distance` (`mi` or `km`)
-- `units.elevation` (`ft` or `m`)
-- `rate_limits.*` (free Strava API throttling caps)
+```powershell
+wsl bash -lc "bash <(curl -fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scripts/bootstrap.sh)"
+```
 
-## Notes
+This path is less polished, but it maps directly to the same `bootstrap.sh` flow used on macOS/Linux, which has been more reliable.
 
-- Raw activities are stored locally for processing but are not committed (`activities/raw/` is ignored). This prevents publishing detailed per‑activity payloads and gps location traces.
-- If neither `sync.start_date` nor `sync.lookback_years` is set, sync backfills all available Strava history.
-- On first run for a new athlete, the workflow auto-resets persisted outputs (`data/*.json`, `heatmaps/`, `site/data.json`) to avoid mixing data across forks. A fingerprint-only file is stored at `data/athletes.json` and does not include athlete IDs or profile data.
-- The sync script rate-limits to free Strava API caps (200 overall / 15 min, 2,000 overall daily; 100 read / 15 min, 1,000 read daily). The cursor is stored in `data/backfill_state.json` and resumes automatically. Once backfill is complete, only the recent sync runs.
+If you would rather avoid WSL troubleshooting on Windows, use [Manual Setup (No Scripts)](#manual-setup-no-scripts).
+
+---
+
+#### Once Setup Starts
+
+You will need a GitHub account. If GitHub CLI (`gh`) is not installed yet, the bootstrap script will detect a supported package manager, offer to install it, and then walk you through GitHub sign-in. On Windows, this happens inside WSL.
+
+You will be prompted for:
+- Setup mode:
+  - Recommended (Online-only, no local clone): setup script will either:
+    - use an existing fork
+    - create a new fork
+    - configure an existing writable repo
+  - Advanced (Local clone + git remotes): setup script will prefer an existing compatible local clone when available, or guide fork-and-clone setup, then complete the rest of the setup.
+  - Manual (No setup scripts): follow [Manual Setup (No Scripts)](#manual-setup-no-scripts)
+- GitHub Pages custom domain (if you have one, for example `yoursite.example.com`)
+- Source (`strava` or `garmin`)
+- Unit preference (`US` or `Metric`)
+- Heatmap week start (`Sunday` or `Monday`)
+- Optional profile link in the dashboard header for the selected source (`Yes` or `No`)
+- Optional tooltip links to individual activities for the selected source (`Yes` or `No`)
+- Source auth credentials:
+  - Strava: prompt will provide a link to create a [Strava API application](https://www.strava.com/settings/api) first, set Authorization Callback Domain to `localhost`.
+    - Then paste the `client_id` + `client_secret` values in the prompt, then a browser tab will open for OAuth approval
+  - Garmin: account email + password
+
+The setup may take several minutes to complete when run for the first time. If any automation step fails, the script prints steps to remedy the failed step.  
+Once the script succeeds, it will provide the URL for your dashboard.
+
+---
+
+## Updating Your Repository
+
+- To pull in new updates and features from the original repo, use GitHub's **Sync fork** button on your fork's `main` branch.
+- Activity data is stored on a dedicated `dashboard-data` branch and deployed from there
+- `main` is intentionally kept free of generated `data/` and `site/data.json` artifacts so fork sync process stays cleaner.
+- After syncing, manually run [Sync Heatmaps](../../actions/workflows/sync.yml) if you want your dashboard refreshed immediately. Otherwise updates will deploy at the next scheduled run.
+
+---
+
+## Switching Sources Later
+
+You can switch between `strava` and `garmin` at any time.
+
+- Re-run `./scripts/bootstrap.sh` (or the quickstart curl command) and choose a different source.
+- If you re-run setup and choose the same source, setup asks whether to force a one-time full backfill. You can also update your response for unit preference, day of week start, placing strava/garmin profle link on your dashboard, and whether you'd like activity links in the tooltips.
+
+---
+
+## Other Features
+
 - The GitHub Pages site is optimized for responsive desktop/mobile viewing.
+- To click activity urls while viewing on desktop, click the graph dot to freeze the tooltip in place.
+- If a day contains multiple activity types, that day’s colored square is split into equal segments — one per unique activity type on that day.
+- Raw activities are stored locally for processing but are not committed (`activities/raw/` is ignored). This prevents publishing detailed per-activity payloads and GPS location traces.
+- If neither `sync.start_date` nor `sync.lookback_years` is set, the sync workflow backfills all available history from the selected source (i.e. Strava/Garmin).
+- Strava backfill state is stored in `data/backfill_state_strava.json`; Garmin backfill state is stored in `data/backfill_state_garmin.json`. If a backfill hits API limits (unlikely), this state allows the daily refresh automation to pick back up where it left off.
+- The Sync action workflow includes a toggle labeled `Reset backfill cursor and re-fetch full history for the selected source` which forces a one-time full backfill. This is useful if you add/delete/modify activities which have already been loaded.
+
+---
+
+## Manual Setup (No Scripts)
+
+Use this if you do not want to run `bootstrap.sh` or `setup_auth.py`.
+
+### 1) Shared steps (Strava + Garmin)
+
+1. Fork this repository on GitHub.
+2. In your fork, keep `main` current with upstream using **Sync fork**.
+3. In your fork, enable GitHub Actions workflows:
+   - `Settings` -> `Actions` -> `General`
+4. In your fork, set GitHub Pages to deploy from Actions:
+   - `Settings` -> `Pages` -> `Source` -> `GitHub Actions`
+5. In your fork, add these repository variables:
+   - `Settings` -> `Secrets and variables` -> `Actions` -> `Variables`
+   - `DASHBOARD_SOURCE`: `strava` or `garmin`
+   - `DASHBOARD_REPO`: your fork slug (example: `yourname/git-sweaty`)
+   - `DASHBOARD_DISTANCE_UNIT`: `mi` or `km`
+   - `DASHBOARD_ELEVATION_UNIT`: `ft` or `m`
+   - `DASHBOARD_WEEK_START`: `sunday` or `monday`
+6. Optional variables for dashboard links:
+   - Strava: `DASHBOARD_STRAVA_PROFILE_URL`, `DASHBOARD_STRAVA_ACTIVITY_LINKS` (`true`/`false`)
+   - Garmin: `DASHBOARD_GARMIN_PROFILE_URL`, `DASHBOARD_GARMIN_ACTIVITY_LINKS` (`true`/`false`)
+
+### 2) Provider auth secrets
+
+Set repository secrets here:
+- `Settings` -> `Secrets and variables` -> `Actions` -> `Secrets`
+
+#### Strava secrets
+
+1. Create a Strava API app at [strava.com/settings/api](https://www.strava.com/settings/api).
+2. Set `Authorization Callback Domain` to `localhost`.
+3. Save your Strava `Client ID` and `Client Secret`.
+4. Open this URL in a browser (replace `YOUR_CLIENT_ID`):
+
+```text
+https://www.strava.com/oauth/authorize?client_id=YOUR_CLIENT_ID&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%2Fexchange_token&approval_prompt=force&scope=read%2Cactivity%3Aread_all
+```
+
+5. Approve access. You will be redirected to a localhost URL. Copy the `code` value from that URL.
+6. Exchange the code for tokens:
+
+```bash
+curl -sS -X POST https://www.strava.com/oauth/token \
+  -d client_id=YOUR_CLIENT_ID \
+  -d client_secret=YOUR_CLIENT_SECRET \
+  -d code=YOUR_CODE \
+  -d grant_type=authorization_code
+```
+
+7. From the response JSON, copy `refresh_token`.
+8. Add these secrets to your fork:
+   - `STRAVA_CLIENT_ID`
+   - `STRAVA_CLIENT_SECRET`
+   - `STRAVA_REFRESH_TOKEN`
+9. Optional but recommended for automatic token rotation:
+   - Add `STRAVA_SECRET_UPDATE_TOKEN` (a GitHub token with repo write access to this fork).
+
+#### Garmin secrets
+
+Choose one auth path:
+
+1. Easiest: add both
+   - `GARMIN_EMAIL`
+   - `GARMIN_PASSWORD`
+2. Token-only path: add
+   - `GARMIN_TOKENS_B64`
+
+`GARMIN_TOKENS_B64` is optional unless you explicitly run token-only config, but it is recommended for reliable scheduled syncs. Garmin's current auth flow is much more reliable when the workflow can reuse saved tokens instead of doing a fresh password login every day.
+
+Optional but recommended for automatic Garmin token rotation:
+
+- Add `GARMIN_SECRET_UPDATE_TOKEN` (a GitHub token with repo write access to this fork). Setup attempts to configure this automatically from your current `gh` auth session.
+
+### 3) Run the first sync and deploy
+
+1. Go to `Actions` -> `Sync Heatmaps`.
+2. Click `Run workflow` on the `main` branch.
+3. Optional: set `source` explicitly (`strava` or `garmin`) when running manually.
+4. Wait for `Sync Heatmaps` to complete successfully.
+5. Confirm `Deploy Pages` runs (automatically after a successful sync).
+6. Open your dashboard at:
+   - `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`

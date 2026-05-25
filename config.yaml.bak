@@ -1,0 +1,51 @@
+# Base configuration. Put secrets in config.local.yaml (ignored by git).
+strava:
+  client_id: ""
+  client_secret: ""
+  refresh_token: ""
+
+sync:
+  # Optional history limits:
+  # start_date: "2019-01-01" # YYYY-MM-DD lower bound
+  # lookback_years: 5        # ignored when start_date is set
+  recent_days: 7
+  resume_backfill: true
+  per_page: 200
+  prune_deleted: false
+
+rate_limits:
+  overall_15_min: 200
+  overall_daily: 2000
+  read_15_min: 100
+  read_daily: 1000
+  safety_buffer: 2
+  min_interval_seconds: 10
+#    - WeightTraining
+#    - Ride 
+activities:
+  types:
+    - Run
+    - NordicSki
+
+  include_all_types: false   # include all Strava activity types by default
+  group_other_types: true   # when true, map non-featured types into smart buckets
+  other_bucket: OtherSports # fallback bucket for unknown activity categories
+  group_aliases: {}         # optional explicit group overrides, e.g. {SkiErg: WinterSports}
+  type_aliases:
+    TrailRun: Run
+    VirtualRun: Run
+    Treadmill: Run
+    Ride: Ride
+    VirtualRide: Ride
+    EBikeRide: Ride
+    GravelRide: Ride
+    MountainBikeRide: Ride
+    Handcycle: Ride
+    Velomobile: Ride
+    IndoorRide: Ride
+    StrengthTraining: WeightTraining
+    WeightTraining: WeightTraining
+
+units:
+  distance: "km"   # "mi" or "km"
+  elevation: "m"  # "ft" or "m"
