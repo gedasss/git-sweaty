@@ -26,8 +26,7 @@ activities:
   types:
     - Run
     - NordicSki
-    - Walk
-    - Hike
+    - WalkHike
 
   include_all_types: false # include all Strava activity types by default
   group_other_types: true # when true, map non-featured types into smart buckets
@@ -47,6 +46,8 @@ activities:
     IndoorRide: Ride
     StrengthTraining: WeightTraining
     WeightTraining: WeightTraining
+    Walk: WalkHike
+    Hike: WalkHike
 
 units:
   distance: "km" # "mi" or "km"
