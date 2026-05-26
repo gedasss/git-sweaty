@@ -2,10 +2,10 @@
   "activity_scope": {
     "exclude_types": [],
     "featured_types": [
-      "Hiking",
+      "Hike",
       "NordicSki",
       "Run",
-      "Walking"
+      "Walk"
     ],
     "group_aliases": {},
     "group_other_types": true,
@@ -29,7 +29,7 @@
   },
   "after": 0,
   "completed": true,
-  "last_run_utc": "2026-05-26T18:08:04.237395+00:00",
+  "last_run_utc": "2026-05-26T18:26:36.556856+00:00",
   "newest_seen_ts": 1779607900,
   "next_before": null,
   "oldest_seen_ts": 946687818,
