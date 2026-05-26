@@ -26,7 +26,8 @@ activities:
   types:
     - Run
     - NordicSki
-    - Walk
+    - Walking
+    - Hiking
 
   include_all_types: false # include all Strava activity types by default
   group_other_types: true # when true, map non-featured types into smart buckets
