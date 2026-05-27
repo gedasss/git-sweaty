@@ -2,10 +2,9 @@
   "activity_scope": {
     "exclude_types": [],
     "featured_types": [
-      "Hike",
       "NordicSki",
       "Run",
-      "Walk"
+      "WalkHike"
     ],
     "group_aliases": {},
     "group_other_types": true,
@@ -15,6 +14,7 @@
       "EBikeRide": "Ride",
       "GravelRide": "Ride",
       "Handcycle": "Ride",
+      "Hike": "WalkHike",
       "IndoorRide": "Ride",
       "MountainBikeRide": "Ride",
       "Ride": "Ride",
@@ -24,12 +24,13 @@
       "Velomobile": "Ride",
       "VirtualRide": "Ride",
       "VirtualRun": "Run",
+      "Walk": "WalkHike",
       "WeightTraining": "WeightTraining"
     }
   },
   "after": 0,
   "completed": true,
-  "last_run_utc": "2026-05-26T18:26:36.556856+00:00",
+  "last_run_utc": "2026-05-27T05:33:04.370539+00:00",
   "newest_seen_ts": 1779607900,
   "next_before": null,
   "oldest_seen_ts": 946687818,

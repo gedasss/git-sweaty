@@ -126,7 +126,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-07-23T19:51:11Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -152,7 +152,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-07-27T14:06:59Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -217,7 +217,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-08-04T19:48:16Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -308,7 +308,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-08-18T12:25:53Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -451,7 +451,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-10-12T16:27:39Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -581,7 +581,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-11-24T13:09:13Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -607,7 +607,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-11-30T14:50:37Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -620,7 +620,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-12-14T15:56:12Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -633,7 +633,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2019-12-21T14:55:24Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2019
   },
   {
@@ -646,7 +646,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-01-09T18:51:49Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -659,7 +659,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-01-17T22:30:24Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -672,7 +672,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-03-28T14:34:37Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -685,7 +685,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-04-09T19:54:24Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -737,7 +737,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-05-02T14:44:45Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -906,7 +906,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-06-23T20:32:06Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -1426,7 +1426,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2020-10-10T11:19:41Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -1439,7 +1439,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-10-11T13:03:01Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -1595,7 +1595,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2020-12-24T15:01:44Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2020
   },
   {
@@ -1608,7 +1608,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2021-02-06T14:24:28Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -1621,7 +1621,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-02-20T15:28:35Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -1673,7 +1673,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2021-04-27T17:31:25Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -1946,7 +1946,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2021-10-23T12:51:14Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2076,7 +2076,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-12-05T12:13:30Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2089,7 +2089,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-12-12T12:11:52Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2102,7 +2102,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-12-18T12:36:13Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2115,7 +2115,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-12-24T13:19:49Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2128,7 +2128,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-12-26T14:34:30Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2141,7 +2141,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2021-12-31T17:04:49Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -2154,7 +2154,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-02T16:22:53Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2167,7 +2167,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-03T16:34:59Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2180,7 +2180,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-04T15:48:18Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2206,7 +2206,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-07T11:49:24Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2232,7 +2232,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-08T17:16:09Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2258,7 +2258,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-10T17:30:20Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2323,7 +2323,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-01-29T14:50:46Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2349,7 +2349,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-02-16T12:56:17Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2375,7 +2375,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-03-05T12:30:37Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2830,7 +2830,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-11-21T12:14:33Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2856,7 +2856,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-11-23T12:16:10Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2882,7 +2882,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-11-26T11:18:42Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2908,7 +2908,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2022-11-29T20:24:58Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -2960,7 +2960,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2022-12-05T19:31:12Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -3298,7 +3298,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2023-01-29T12:43:48Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -3558,7 +3558,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-02-26T19:39:11Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -3675,7 +3675,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-03-25T13:36:03Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -3727,7 +3727,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-04-02T11:16:44Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4078,7 +4078,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-06-06T19:15:46Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4468,7 +4468,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2023-10-04T18:50:25Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4481,7 +4481,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-10-09T17:33:08Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4507,7 +4507,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2023-10-23T19:02:39Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4520,7 +4520,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2023-10-24T17:26:26Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4650,7 +4650,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-11-17T19:15:25Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4676,7 +4676,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-11-21T18:15:08Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4702,7 +4702,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-11-25T11:50:26Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4741,7 +4741,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2023-12-13T17:43:59Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -4780,7 +4780,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-01-01T04:00:50Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -4871,7 +4871,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-01-14T17:29:31Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -4923,7 +4923,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-01-25T18:09:26Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5014,7 +5014,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-02-22T18:38:20Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5027,7 +5027,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-03-09T09:37:38Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5170,7 +5170,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-04-27T17:01:04Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5274,7 +5274,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-05-31T20:15:10Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5287,7 +5287,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-06-07T18:41:37Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5300,7 +5300,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-06-15T13:14:00Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5495,7 +5495,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2024-08-18T17:31:56Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5521,7 +5521,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2024-08-26T20:19:43Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5560,7 +5560,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2024-08-29T14:07:03Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5573,7 +5573,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2024-08-31T17:03:38Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5690,7 +5690,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2024-10-05T10:37:18Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5820,7 +5820,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2024-12-08T14:43:30Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2024
   },
   {
@@ -5885,7 +5885,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-01-01T14:04:50Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -5898,7 +5898,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-01-04T14:57:04Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -5937,7 +5937,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-01-11T12:20:27Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6002,7 +6002,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-01-18T12:41:25Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6015,7 +6015,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-01-18T14:12:56Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6028,7 +6028,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-01-20T17:31:52Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6158,7 +6158,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-02-09T12:54:10Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6327,7 +6327,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-03-09T13:36:23Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6353,7 +6353,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-03-16T12:01:40Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6743,7 +6743,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-07-10T18:57:24Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6769,7 +6769,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-07-12T18:54:21Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6808,7 +6808,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-07-20T13:00:42Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6873,7 +6873,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-08-04T17:43:50Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6951,7 +6951,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-08-30T16:39:11Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -6990,7 +6990,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-09-14T12:13:17Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7003,7 +7003,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-09-17T19:38:12Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7016,7 +7016,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-09-20T14:32:06Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7029,7 +7029,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-09-21T18:59:39Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7068,7 +7068,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-09-24T19:29:09Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7081,7 +7081,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-09-27T14:03:00Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7107,7 +7107,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-10-11T12:55:53Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7289,7 +7289,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-11-06T16:17:33Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7393,7 +7393,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-11-22T12:04:47Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7458,7 +7458,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-11-29T16:18:10Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7471,7 +7471,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-11-30T13:32:23Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7575,7 +7575,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-12-14T14:17:10Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7627,7 +7627,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-12-19T17:35:02Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7653,7 +7653,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-12-21T15:19:57Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7679,7 +7679,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-12-23T18:14:44Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7705,7 +7705,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-12-24T18:48:59Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7731,7 +7731,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2025-12-26T12:09:01Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -7783,7 +7783,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-01-01T07:36:18Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -7796,7 +7796,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-01-02T12:23:17Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -7835,7 +7835,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-01-11T13:13:49Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -7900,7 +7900,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-01-25T12:21:11Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -7952,7 +7952,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-02-01T11:47:10Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8108,7 +8108,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-02-21T16:45:54Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8172,7 +8172,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-03-01T10:45:52Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8224,7 +8224,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-03-11T09:44:11Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8237,7 +8237,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-03-11T15:11:46Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8289,7 +8289,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-03-22T09:18:03Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8315,7 +8315,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-03-28T11:34:44Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8354,7 +8354,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-04-06T13:40:03Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8367,7 +8367,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-04-11T15:56:44Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8406,7 +8406,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-05-02T07:26:05Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8419,7 +8419,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-05-02T09:48:54Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8432,7 +8432,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-05-03T08:31:43Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8445,7 +8445,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-05-10T10:13:47Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8458,7 +8458,7 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-05-10T10:13:52Z",
-    "type": "Hike",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8471,7 +8471,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-05-16T17:34:27Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -8497,7 +8497,7 @@
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
     "start_date_local": "2026-05-24T10:31:40Z",
-    "type": "Walk",
+    "type": "WalkHike",
     "year": 2026
   }
 ]
