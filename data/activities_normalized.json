@@ -8499,5 +8499,18 @@
     "start_date_local": "2026-05-24T10:31:40Z",
     "type": "WalkHike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 7386.8,
+    "elevation_gain": 28.0,
+    "id": "18727238692",
+    "moving_time": 6287.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-31T11:52:10Z",
+    "type": "WalkHike",
+    "year": 2026
   }
 ]
